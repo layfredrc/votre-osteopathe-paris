@@ -1,7 +1,7 @@
 <template>
  <div class="nav-container">
 			<header>
-				<nuxt-link to="/" class="logo"><img src="../assets/Logo.png" alt="" /></nuxt-link>
+				<nuxt-link to="/" class="logo"><img src="../assets/Logo.png" alt="Logo" /></nuxt-link>
 				<nav>
 					<ul>
 						<li><nuxt-link to="/services" class="hover:underline">Services</nuxt-link></li>
@@ -34,7 +34,7 @@
 						<a
 							target="_blank"
 							href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
-							><img src="../assets/icone-doctolib.png" alt="doctolib"
+							><img src="../assets/icone-doctolib.png" alt="doctolib patricia chung"
 						/></a>
 					</li>
 

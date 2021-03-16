@@ -4,14 +4,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Votre Ostéopathe Paris 16ème | Patricia Chung',
+    title: 'Ostéopathe Paris 16ème | Patricia Chung',
     htmlAttrs: {
       lang: 'fr'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !' }
+      { hid: 'description', name: 'description', content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet pour apaiser toutes vos douleurs !' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -20,7 +20,7 @@ export default {
       {
         hid: 'twitter:card',
         name: 'twitter:card',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
+        content: 'summary_large_image',
       },
       {
         hid: 'twitter:site',
@@ -42,37 +42,14 @@ export default {
         name: 'twitter:description',
         content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
       },
-      {
-        hid: 'og:image',
-        property: 'og:image',
-        content:
-          '/favicon.ico',
-      },
-      {
-        hid: 'og:site_name',
-        name: 'og:site_name',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
-      },
-      {
-        hid: 'og:type',
-        name: 'og:type',
-        content: 'website',
-      },
-      {
-        hid: 'og:url',
-        name: 'og:url',
-        content: 'https://votreosteopatheparis16.netlify.app',
-      },
-      {
-        hid: 'og:title',
-        name: 'og:title',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
-      },
-      {
-        hid: 'og:description',
-        name: 'og:description',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
-      },
+      { hid: 'keywords', name: 'keywords', content: 'osteopathe, paris, paris 16eme, 16, douleurs, drainage lymphatique, femme enceinte, nourisson, sportifs, nutrition, urgence, soins, cabinet' },
+      { hid: 'og:type', name: 'og:type', content: 'website' },
+      { hid: 'og:url', name: 'og:url', content: process.env.WEBSITE_URL },
+      { hid: 'og:title', name: 'og:title', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
+      { hid: 'og:site_name', name: 'og:site_name', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
+      { hid: 'og:locale', name: 'og:locale', content: 'fr' },
+      { hid: 'og:image', name: 'og:image', content: `${process.env.WEBSITE_URL}/favicon.ico` },
+      { hid: 'google-site-verification', name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN },
     ]
   },
 
