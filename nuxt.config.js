@@ -48,7 +48,7 @@ export default {
       { hid: 'og:title', name: 'og:title', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
       { hid: 'og:site_name', name: 'og:site_name', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
       { hid: 'og:locale', name: 'og:locale', content: 'fr' },
-      { hid: 'og:image', name: 'og:image', content: `${process.env.WEBSITE_URL}/favicon.ico` },
+      { hid: 'og:image', name: 'og:image', content: '/favicon.ico' },
       { hid: 'google-site-verification', name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN },
     ]
   },
