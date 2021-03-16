@@ -53,7 +53,7 @@ export default {
         content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet pour apaiser toutes vos douleurs !',
       },
       { hid: 'og:locale', name: 'og:locale', content: 'fr' },
-      { hid: 'og:image', name: 'og:image', content: './assets/Logo.png' },
+      { hid: 'og:image', name: 'og:image', content: 'https://www.facebook.com/osteopatheportedesaintcloud/photos/a.101396578388187/129330248928153/' },
       {
         hid: 'og:image:alt',
         property: 'og:image:alt',
