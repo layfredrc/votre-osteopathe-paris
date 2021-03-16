@@ -10,7 +10,7 @@
     <Sport/>
     
     <LazyGallery/>
-    <LazyGoogleReviews/>
+    <GoogleReviews/>
     <LazyInstagramFeed/>
 
     <Footer/>
