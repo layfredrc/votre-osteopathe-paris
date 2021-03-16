@@ -44,11 +44,21 @@ export default {
       },
       { hid: 'keywords', name: 'keywords', content: 'osteopathe, paris, paris 16eme, 16, douleurs, drainage lymphatique, femme enceinte, nourisson, sportifs, nutrition, urgence, soins, cabinet' },
       { hid: 'og:type', name: 'og:type', content: 'website' },
-      { hid: 'og:url', name: 'og:url', content: process.env.WEBSITE_URL },
+      { hid: 'og:url', name: 'og:url', content: 'https://votreosteopatheparis16.netlify.app/' },
       { hid: 'og:title', name: 'og:title', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
       { hid: 'og:site_name', name: 'og:site_name', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet pour apaiser toutes vos douleurs !',
+      },
       { hid: 'og:locale', name: 'og:locale', content: 'fr' },
-      { hid: 'og:image', name: 'og:image', content: '/favicon.ico' },
+      { hid: 'og:image', name: 'og:image', content: './assets/Logo.png' },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: 'Votre Ostéopathe Paris 16ème | Patricia Chung',
+      },
       { hid: 'google-site-verification', name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN },
     ]
   },
