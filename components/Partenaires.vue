@@ -2,9 +2,9 @@
   	<section class="partenaires">
 			<h1 class=" subtitle slogan text-gradient" style="font-size: 28px;">En partenariat avec</h1>
 			<div class="partenaire-container">
-				<img src="../assets/aqualoft.png" alt="" />
-				<img src="../assets/hbp.png" alt="" />
-				<img src="../assets/casino.png" alt="" />
+				<img src="../assets/aqualoft.webp" alt="aqualoft" />
+				<img src="../assets/hbp.png" alt="healthy body program" />
+				<img src="../assets/casino.png" alt="circus club paris" />
 			</div>
 		</section>
 </template>

@@ -50,7 +50,7 @@
 			</div>
 
 			<div class="right">
-				<nuxt-link to="/services#douleurs"><img src="../assets/mosaique.png" alt="mosaique" class="flex items-center mosaique  xl:transform xl:-translate-x-56 xl:mt-12"></nuxt-link>
+				<nuxt-link to="/services#douleurs"><img src="../assets/mosaique.webp" alt="mosaique" class="flex items-center mosaique  xl:transform xl:-translate-x-56 xl:mt-12"></nuxt-link>
 				
 			</div>
 		</div>
