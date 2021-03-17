@@ -66,22 +66,17 @@
     <div class="lg:ml-16">
       <h5 class="text-xl font-semibold text-white ">Horaires</h5>
       <div class="space-y-8 mt-4">
-        <a href="#" class="flex items-start space-x-4">
-         
           <div class="flex-1">
             <strong>Lundi - Samedi.</strong>
             <p class="font-semibold block mt-2 text-sm text-gray-400">9h - 19h</p>
           </div>
-        </a>
-
-        <a href="#" class="flex items-start space-x-4 opacity-100">
          
           <div class="flex-1">
-               <a href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
-				target="_blank"
+            <a href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
+				        target="_blank"
                 class="inline-block bg-gradient-to-br from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-700 font-semibold rounded-lg py-4 px-5 lg:px-8 text-white">Prendre RDV</a>
           </div>
-        </a>
+      
       </div>
     </div>
   </div>

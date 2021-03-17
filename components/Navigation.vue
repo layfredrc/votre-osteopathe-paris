@@ -22,7 +22,33 @@
 
 <script>
 export default {
+    mounted(){
 
+        const navLinks = document.querySelectorAll('.navigation__link');
+        const navIcon = document.querySelector('.navigation__button');
+
+        var compteur = 0;
+        navIcon.addEventListener('click',() => {
+            compteur ++;
+        navLinks.forEach(link => {
+           
+            console.log(compteur);
+            if(compteur === 1 ){
+            link.style.display = "inline-block";
+            }else {
+                link.style.display = "none";
+                 compteur = 0;
+            }
+            
+            
+           
+        })
+        })
+
+
+
+
+    }
 }
 </script>
 
@@ -143,7 +169,7 @@ $color-black: #000;
     &__link {
         &:link,
         &:visited {
-            display: inline-block;
+            display: none;
             font-size: 30px;
             font-weight: 300;
             padding: 10px 20px;

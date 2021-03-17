@@ -6,11 +6,11 @@
     <Featured/>
     <Skills/>
     <Partenaires/>
-    <Drainage/>
-    <Sport/>
+    <LazyDrainage/>
+    <LazySport/>
     
     <LazyGallery/>
-    <GoogleReviews/>
+    <LazyGoogleReviews/>
     <LazyInstagramFeed/>
 
     <Footer/>
@@ -60,8 +60,6 @@ export default {
 
     var navigation = document.querySelector('.navigation');
    
-    
-
     window.addEventListener('scroll',function(e){
       if(isInViewport(logo)){
         navigation.style.opacity = 0;
@@ -72,6 +70,12 @@ export default {
         navigation.style.opacity = 1;
       }
     },false)
+    
+
+
+
+   
+
     
 
   }

@@ -99,7 +99,7 @@ header {
 
     & .logo{
         width:82px;
-        transform: translate(-5px,-20px);
+        transform: translate(-5px,-25px);
     }
 
 }
@@ -113,6 +113,9 @@ header {
     header nav ul{
         display: none;
     }
+
+	
+
 
 }
 
