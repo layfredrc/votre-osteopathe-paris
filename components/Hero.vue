@@ -117,6 +117,7 @@ $btnBeige:#f09d6d;
 	color: white;
     font-size: 36px;
     font-weight: bold;
+	text-transform: uppercase;
 }
 
 .cercle {
@@ -280,6 +281,7 @@ $btnBeige:#f09d6d;
 	}
 	.slogan{
 		font-size: 36px;
+		text-transform: uppercase;
 	}
 
 	.meet{
@@ -329,7 +331,7 @@ $btnBeige:#f09d6d;
 	}
 
 	.mosaique{
-		width: 500px;
+		width: 550px;
 
 	}
 	.meet{
@@ -387,7 +389,7 @@ $btnBeige:#f09d6d;
         }       
 		
 		& .mosaique{
-			width: 600px;
+			width: 700px;
 		}
 
         &-img{

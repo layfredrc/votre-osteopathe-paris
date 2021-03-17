@@ -19,7 +19,7 @@
                     <div class="md:text-right md:pr-10">
                     <span
                         class="font-medium md:font-normal inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
-                        February 9, 2021
+                        Expériences
                     </span>
                     <span
                         class="h-8 w-8 rounded-full bg-purple-500 text-purple-50 hidden md:inline-flex items-center justify-center md:absolute md:-right-4 md:ml-6">
@@ -33,32 +33,22 @@
                 </div>
                 </div>
                 <div class="md:col-span-3 border-b pb-8 mb-12">
-                <div class="prose md:prose-lg">
-                    <img src="../assets/suposteo.webp" alt="Placeholder image" class="rounded-lg">
-                    <h2>Far far away, behind the word mountains, far from the countries Consonantia</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-                    blind texts. Separated they live in <strong>Bookmarksgrove</strong> right at the coast of the Semantics,
-                    a
-                    large language
-                    ocean.</p>
+                    <div class="prose md:prose-lg space-y-4">
+                        <img src="../assets/suposteo.webp" alt="Placeholder image" class="rounded-lg mb-12">
+                        <h2>Après 5 années d’étude au sein de l’École Supérieure d’Ostéopathie, elle a effectué un double cursus STAPS qui lui a permis d’obtenir un second diplôme dans le monde du sport. </h2>
+                        <p>Au travers de ces études, Patricia a pu exercer en tant que praticienne ostéopathe au sein de différentes structures. Ces expériences lui ont permis d’acquérir une polyvalence dans ses prises en charge et de proposer la meilleure solution adaptée à chaque demande.</p>
 
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a
-                    paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                        <p>Prise en charge des patients à la clinique de L’École Supérieure d’Ostéopathie</p>
 
-                    <p>Even the all-powerful Pointing has <strong>no control about</strong> the blind texts it is an almost
-                    unorthographic life
-                    One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World
-                    of Grammar.</p>
+                        <p>Suivi et prise en charge dans différents hôpitaux (Centre Hospitalier Intercommunale de Créteil, Hôpital de Tenon, Clinique de Vauban, Centre de Réadaptation de Coubert)</p>
 
-                    <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks
-                    and devious Semikoli, but the Little Blind Text didn’t listen. She packed her <a href="">made herself on
-                        the way</a> seven versalia, put her
-                    initial into the belt and. When she reached the first hills of the Italic
-                    Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of
-                    Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over
-                    her
-                    cheek, then</p>
-                </div>
+                        <p>Bénévole ostéopathe au sein de l’Union Nationale des Enfants Handicapés Espoir Ostéopathique (UNEHEO)</p>
+                        <p>Stagiaire préparatrice physique au FC Saint-Vrain</p>
+                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Nanteuil-Les-Meaux </p>
+                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 13
+</p>
+                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 16 </p>
+                    </div>
                 </div>
             </div>
 
@@ -68,7 +58,7 @@
                     <div class="md:text-right md:pr-10">
                     <span
                         class="font-medium md:font-normal inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
-                        january 23, 2021
+                        Formation ostéopathiques post-graduées
                     </span>
                     <span
                         class="h-8 w-8 rounded-full bg-purple-500 text-purple-500 hidden md:inline-flex items-center justify-center md:absolute md:-right-4  md:ml-6">
@@ -83,28 +73,9 @@
                 </div>
                 <div class="md:col-span-3 border-b pb-8 mb-12">
                 <div class="prose md:prose-lg">
-                    <img src="../assets/sportif.svg" alt="Placeholder image" class="rounded-lg">
-                    <h2>One morning, when Gregor Samsa woke from troubled dreams</h2>
-                    <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which
-                    I
-                    enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created
-                    for
-                    the bliss of souls like mine.</p>
-
-                    <p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I
-                    neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I
-                    feel
-                    that I never was a greater artist than now.</p>
-
-                    <p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper
-                    surface
-                    of the impenetrable foliage of my trees, and but a few stray gleams spurple into the inner sanctuary, I
-                    throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a
-                    thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks,
-                    and
-                    grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence
-                    of
-                    the Almighty, who formed us in his own image, and the breath</p>
+                    <img src="../assets/sportif.svg" alt="Placeholder image" class="rounded-lg mb-12">
+                    <h2>Massage drainant lymphatique de la méthode certifiée Renata França</h2>
+                    <h2>OstéoBébé - M. Eric Simon & Mme Dany Heintz-Blondy</h2>
                 </div>
                 </div>
             </div>

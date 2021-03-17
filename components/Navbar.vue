@@ -43,15 +43,14 @@
 							target="_blank"
 							href="https://www.instagram.com/osteopathe.paris16/"
 							><img
-								src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"
+								src="../assets/icon-ig.png" alt="instagram"/>
 						/></a>
 					</li>
 					<li class="fb">
 						<a
 							target="_blank"
 							href="https://www.google.com/maps/dir//48.8407981,2.2565078/@48.840798,2.256508,14z?hl=fr"
-							><img src="https://img.icons8.com/ios/50/000000/google-maps.png"
-						/></a>
+							><img src="../assets/icon-google-maps.png" alt="google maps"/></a>
 					</li>
 				</ul>
 			</div>
@@ -83,7 +82,8 @@ header {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
     padding: 2em;
-    height: 90px;
+    height: 100px;
+	text-transform: uppercase;
  
     
     & nav ul {
@@ -122,7 +122,7 @@ header {
 @media only screen and (min-width:43em) {
 	header{
 		& .logo{
-		transform: translate(-5px,-30px);
+		transform: translate(-5px,-25px);
 	}
 	}
     
@@ -149,7 +149,7 @@ header {
     .social-header{
         display: block;
         padding: 2em 4em 0em 0;
-
+		transform: translateY(-8px);
         & ul{
             display: -webkit-box;
             display: -ms-flexbox;
@@ -165,7 +165,7 @@ header {
                 width: 80px;
             }
             & img{
-                width: 30px;
+                width: 35px;
 		        margin-right: 5px;
             }
 
