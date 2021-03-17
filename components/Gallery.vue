@@ -13,122 +13,119 @@
 			<div class="gallery">
 				<figure class="gallery__item gallery__item--1">
 					<img
-						src="../assets/gal-1.jpeg"
+						src="../assets/gal-1.webp"
 						alt="Gallery image 1"
 						class="gallery__img"
-						data-original="gal-1.jpeg"
+						data-original="gal-1.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--2">
 					<img
-						src="../assets/gal-2.jpeg"
+						src="../assets/gal-2.webp"
 						alt="Gallery image 2"
 						class="gallery__img"
-						data-original="gal-2.jpeg"
+						data-original="gal-2.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--3">
 					<img
-						src="../assets/gal-3.jpeg"
+						src="../assets/gal-3.webp"
 						alt="Gallery image 3"
 						class="gallery__img"
-						data-original="gal-3.jpeg"
+						data-original="gal-3.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--4">
 					<img
-						src="../assets/gal-4.jpeg"
+						src="../assets/gal-4.webp"
 						alt="Gallery image 4"
 						class="gallery__img"
-						data-original="gal-4.jpeg"
+						data-original="gal-4.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--5">
 					<img
-						src="../assets/gal-5.jpeg"
+						src="../assets/gal-5.webp"
 						alt="Gallery image 5"
 						class="gallery__img"
-						data-original="gal-5.jpeg"
+						data-original="gal-5.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--6">
 					<img
-						src="../assets/gal-6.jpeg"
+						src="../assets/gal-6.webp"
 						alt="Gallery image 6"
 						class="gallery__img"
-						data-original="gal-6.jpeg"
+						data-original="gal-6.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--7">
 					<img
-						src="../assets/gal-7.jpeg"
+						src="../assets/gal-7.webp"
 						alt="Gallery image 7"
 						class="gallery__img"
-						data-original="gal-7.jpeg"
+						data-original="gal-7.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--8">
 					<img
-						src="../assets/gal-8.jpeg"
+						src="../assets/gal-8.webp"
 						alt="Gallery image 8"
 						class="gallery__img"
-						data-original="gal-8.jpeg"
+						data-original="gal-8.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--9">
 					<img
-						src="../assets/gal-9.jpeg"
+						src="../assets/gal-9.webp"
 						alt="Gallery image 9"
 						class="gallery__img"
-						data-original="gal-9.jpeg"
+						data-original="gal-9.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--10">
 					<img
-						src="../assets/gal-10.jpeg"
+						src="../assets/gal-10.webp"
 						alt="Gallery image 10"
 						class="gallery__img"
-						data-original="gal-10.jpeg"
+						data-original="gal-10.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--11">
 					<img
-						src="../assets/gal-11.jpeg"
+						src="../assets/gal-11.webp"
 						alt="Gallery image 11"
 						class="gallery__img"
-						data-original="gal-11.jpeg"
+						data-original="gal-11.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--12">
 					<img
-						src="../assets/gal-12.jpeg"
+						src="../assets/gal-12.webp"
 						alt="Gallery image 12"
 						class="gallery__img"
-						data-original="gal-12.jpeg"
+						data-original="gal-12.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--13">
 					<img
-						src="../assets/gal-13.jpeg"
+						src="../assets/gal-13.webp"
 						alt="Gallery image 13"
 						class="gallery__img"
-						data-original="gal-13.jpeg"
+						data-original="gal-13.webp"
 					/>
 				</figure>
 				<figure class="gallery__item gallery__item--14">
 					<img
-						src="../assets/gal-14.jpeg"
+						src="../assets/gal-14.webp"
 						alt="Gallery image 14"
 						class="gallery__img"
-						data-original="gal-14.jpeg"
+						data-original="gal-14.webp"
 					/>
 				</figure>
 			</div>
 
-			<section class="modal">
-				<img src="" alt="" class="full-img" />
-				<p class="modal-caption"></p>
-			</section>
+			
 		</section>
 </template>
 

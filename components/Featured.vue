@@ -8,20 +8,20 @@
 					>
 					<ul class="featured-desc">
 						<li>
-							<img src="../assets/metro.jpg" class="metro"/>
+							<img src="../assets/metro.jpg" class="metro" alt="metro 9 Porte de Saint Cloud"/>
 							<span class="caption">
 								<strong>Métro </strong><br />Porte de Saint Cloud (ligne 9)
 							</span>
 						</li>
 						<li>
-							<img src="../assets/rer_c.png" class="rer" />
+							<img src="../assets/rer_c.png" class="rer" alt="RER C Pont du Garigliano"/>
 							<span class="caption"
 								><strong> RER </strong> <br />
 								Pont Du Garigliano (ligne C)
 							</span>
 						</li>
 						<li>					
-							<img src="../assets/Capture.PNG" class="rer"/>
+							<img src="../assets/Capture.PNG" class="rer" alt="Bus 62 Porte de Saint Cloud"/>
 
 							<span class="caption">
 								<strong>Bus</strong>
@@ -30,7 +30,7 @@
 							</span>
 						</li>
 						<li>
-							<img src="../assets/parking.jpg" class="rer"/>
+							<img src="../assets/parking.jpg" class="rer" alt="Parking"/>
 							<span class="caption">
 								<strong>Parking</strong>
 								<br />

@@ -34,7 +34,7 @@
                 </div>
                 <div class="md:col-span-3 border-b pb-8 mb-12">
                 <div class="prose md:prose-lg">
-                    <img src="../assets/suposteo.jpg" alt="Placeholder image" class="rounded-lg">
+                    <img src="../assets/suposteo.webp" alt="Placeholder image" class="rounded-lg">
                     <h2>Far far away, behind the word mountains, far from the countries Consonantia</h2>
                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
                     blind texts. Separated they live in <strong>Bookmarksgrove</strong> right at the coast of the Semantics,

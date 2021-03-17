@@ -20,6 +20,9 @@
           <li>
             <nuxt-link to="/patriciaChung" class="font-normal text-base hover:text-gray-100 hover:underline">Votre ostéopathe</nuxt-link>
           </li>
+          <li>
+            <a href="../brochure.pdf" target="_blank" class="font-normal text-base hover:text-gray-100 hover:underline">Brochure</a>
+          </li>
         </ul>
       </nav>
     </div>

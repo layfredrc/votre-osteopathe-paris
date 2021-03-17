@@ -4,7 +4,7 @@
 			<div class="partenaire-container">
 				<img src="../assets/aqualoft.webp" alt="aqualoft" />
 				<img src="../assets/hbp.png" alt="healthy body program" />
-				<img src="../assets/casino.png" alt="circus club paris" />
+				<img src="../assets/casino.webp" alt="circus club paris" />
 			</div>
 		</section>
 </template>
