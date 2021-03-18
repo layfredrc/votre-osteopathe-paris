@@ -1,7 +1,10 @@
 <template>
   <section class="drainage">
 			<div class="drainage-container ">
-				<img src="../assets/massage.webp" alt="" class="massage-img">
+              
+                <img src="../assets/massage.jpeg" alt="massage drainant" class="massage-img">
+                
+			
 				<div class="drainage-card">
 					<div>
 						<h1 class="drainage-h1" >Massage Drainant </h1>
@@ -10,7 +13,10 @@
 					</div>
 				
 				</div>
-				<img src="../assets/healthy-body.webp" alt="" class="healthy-body-img">
+            
+                <img src="../assets/healthy-body.jpeg" alt="massage drainant" class="healthy-body-img">
+         
+			
 				<div class="drainage-card2">
 					<div>
 						<h3 class="drainage-h1" >Drainage <br>Lymphatique</h3>

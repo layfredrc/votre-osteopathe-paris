@@ -82,7 +82,7 @@ header {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
     padding: 2em;
-    height: 100px;
+    height: 105px;
 	text-transform: uppercase;
  
     
@@ -119,7 +119,7 @@ header {
 
 }
 
-@media only screen and (min-width:43em) {
+@media only screen and (min-width:53em) {
 	header{
 		& .logo{
 		transform: translate(-5px,-25px);
@@ -128,12 +128,7 @@ header {
     
 }
 
-@media only screen and (min-width: 62em){
-    
-}
-
-@media only screen and (min-width:82em){
-
+/* @media only screen and (min-width: 72em){
     .nav-container {
 		display: -ms-grid;
 		display: grid;
@@ -158,7 +153,65 @@ header {
             -ms-flex-pack: justify;
             justify-content: space-between;
             float: right;
-			transform: translateX(-80px);
+	
+            width: 18em;
+            
+            & ul li{
+                width: 80px;
+            }
+            & img{
+                width: 35px;
+		        margin-right: 5px;
+            }
+
+        }
+    }
+
+    .num {
+		color: black;
+		margin-right: auto;
+		width: 180px;
+        font-size: 16px;
+        
+        & span{
+            display: inline-block;
+            color: black;
+            width: 120px;
+            font-weight: 600;
+            text-decoration: underline;
+            transform: translate(45px, -28px);
+        }
+	}
+
+} */
+
+@media only screen and (min-width:82em){
+
+    .nav-container {
+		display: -ms-grid;
+		display: grid;
+		-ms-grid-columns: 66% auto;
+		grid-template-columns: 66% auto;
+		background: unset;
+        font-size: 20px;
+        & header{
+            background: #a4c3b2;
+        }
+    }
+
+    .social-header{
+        display: block;
+        padding: 2em 4em 0em 0;
+		transform: translateY(-8px);
+        & ul{
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+            justify-content: space-between;
+            float: right;
+		
             width: 18em;
             
             & ul li{

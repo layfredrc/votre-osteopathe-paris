@@ -3,8 +3,8 @@
 			<div class="left">
 				<div class="inner transition2">
 					<p class="subtitle">Accessibilité</p>
-					<a href="" class="featured-title"
-						>Pôle de Santé Murat, <br />89 Boulevard Murat 75016 Paris</a
+					<h3 href="" class="featured-title"
+						>Pôle de Santé Murat, <br />89 Boulevard Murat 75016 Paris</h3
 					>
 					<ul class="featured-desc">
 						<li>

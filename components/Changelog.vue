@@ -34,7 +34,7 @@
                 </div>
                 <div class="md:col-span-3 border-b pb-8 mb-12">
                     <div class="prose md:prose-lg space-y-4">
-                        <img src="../assets/suposteo.webp" alt="Placeholder image" class="rounded-lg mb-12">
+                        <img src="../assets/suposteo.jpg" alt="Placeholder image" class="rounded-lg mb-12">
                         <h2>Après 5 années d’étude au sein de l’École Supérieure d’Ostéopathie, elle a effectué un double cursus STAPS qui lui a permis d’obtenir un second diplôme dans le monde du sport. </h2>
                         <p>Au travers de ces études, Patricia a pu exercer en tant que praticienne ostéopathe au sein de différentes structures. Ces expériences lui ont permis d’acquérir une polyvalence dans ses prises en charge et de proposer la meilleure solution adaptée à chaque demande.</p>
 
@@ -45,8 +45,7 @@
                         <p>Bénévole ostéopathe au sein de l’Union Nationale des Enfants Handicapés Espoir Ostéopathique (UNEHEO)</p>
                         <p>Stagiaire préparatrice physique au FC Saint-Vrain</p>
                         <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Nanteuil-Les-Meaux </p>
-                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 13
-</p>
+                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 13</p>
                         <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 16 </p>
                     </div>
                 </div>

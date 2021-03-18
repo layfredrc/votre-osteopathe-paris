@@ -50,7 +50,7 @@
 			</div>
 
 			<div class="right">
-				<nuxt-link to="/services#douleurs"><img src="../assets/mosaique.webp" alt="mosaique" class="flex items-center mosaique  xl:transform xl:-translate-x-56 xl:mt-12"></nuxt-link>
+				<nuxt-link to="/services#douleurs"><img src="../assets/mosaique.png" alt="mosaique" class="mosaique"></nuxt-link>
 				
 			</div>
 		</div>
@@ -76,7 +76,7 @@ $btnBeige:#f09d6d;
 	display: grid;
 	text-align: center;
 	padding: 4em;
-	height: 120vh;
+	
 }
 
 .meet {
@@ -117,7 +117,7 @@ $btnBeige:#f09d6d;
 	color: white;
     font-size: 36px;
     font-weight: bold;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 .cercle {
@@ -250,7 +250,7 @@ $btnBeige:#f09d6d;
         display: none;
     }
 	.hero{
-		height: 120vh;
+	
 	}
 	.scroll{
 		display: none;
@@ -262,7 +262,7 @@ $btnBeige:#f09d6d;
 
 @media only screen and (min-width:43em) {
     .hero{
-		height: 60vh;
+
 		display: -ms-grid;
 		display: grid;
 		-ms-grid-columns: 66% auto;
@@ -281,7 +281,7 @@ $btnBeige:#f09d6d;
 	}
 	.slogan{
 		font-size: 36px;
-		text-transform: uppercase;
+		
 	}
 
 	.meet{
@@ -308,17 +308,20 @@ $btnBeige:#f09d6d;
 
 }
 
-@media only screen and (min-width: 62em){
+/* @media only screen and (min-width: 62em){
 
 	.hero{
-		height: 80vh;
 		 display: -ms-grid;
 		display: grid;
 		-ms-grid-columns: 66% auto;
 		grid-template-columns: 66% auto;
-		
+		background: unset;
+		padding: 0;
+		width: unset;
 		  & .content{
+			background: #b4cdbf;
             text-align: left;
+			padding: 6em 4em 4em 4em;
         }
 	}
 	.scroll{
@@ -326,12 +329,13 @@ $btnBeige:#f09d6d;
 	}
 
 	.slogan{
-		font-size: 50px;
+		font-size: 46px;
 
 	}
 
 	.mosaique{
 		width: 550px;
+		transform: translate(-185px,25px);
 
 	}
 	.meet{
@@ -354,11 +358,11 @@ $btnBeige:#f09d6d;
 		}
 	}
     
-}
+} */
 
 @media only screen and (min-width:82em){
     .hero {
-        height: 90vh;
+
         margin-bottom: -80px;
         display: -ms-grid;
 		display: grid;
@@ -390,6 +394,7 @@ $btnBeige:#f09d6d;
 		
 		& .mosaique{
 			width: 700px;
+			transform: translate(-225px,25px);
 		}
 
         &-img{
