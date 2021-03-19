@@ -82,7 +82,7 @@ header {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
     padding: 2em;
-    height: 105px;
+    height: 95px;
 	text-transform: uppercase;
  
     
@@ -121,6 +121,7 @@ header {
 
 @media only screen and (min-width:53em) {
 	header{
+        height: 95px;
 		& .logo{
 		transform: translate(-5px,-25px);
 	}
@@ -138,6 +139,7 @@ header {
         font-size: 15px;
         & header{
             background: #a4c3b2;
+            height: 95px;
         }
     }
 
@@ -196,6 +198,7 @@ header {
         font-size: 20px;
         & header{
             background: #a4c3b2;
+            height: 105px;
         }
     }
 

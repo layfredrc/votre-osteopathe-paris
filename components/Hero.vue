@@ -336,7 +336,7 @@ $btnBeige:#f09d6d;
 
 	.mosaique{
 		width: 500px;
-		transform: translate(-150px,35px);
+		transform: translate(-170px,35px);
 
 	}
 	.meet{
