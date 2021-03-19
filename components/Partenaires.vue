@@ -40,6 +40,14 @@ export default {
 }
 
 @media only screen and (min-width:43em) {
+	.partenaires{
+		& img {
+	    width: 150px;
+        margin: 20px;
+        display: inline-block;
+    }
+	}
+	  
 }
     
 
