@@ -40,6 +40,7 @@ export default {
 }
 
 @media only screen and (min-width:43em) {
+}
     
 
 @media only screen and (min-width: 62em){
@@ -57,6 +58,6 @@ export default {
 @media only screen and (min-width: 82em){
 
 }
-}
+
 
 </style>
