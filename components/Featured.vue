@@ -180,28 +180,29 @@ export default {
 }
 
 @media only screen and (min-width:43em) {
+	
     
 }
 
 @media only screen and (min-width: 62em){
 	
 	.featured{
-		margin-top: 50px;
+		margin-top: 30px;
 		display: grid;
 		grid-template-columns: 40% auto;
 		text-align: left;
 		
 		& ul{
-			margin-left: 40px;
+			margin-left: 60px;
 		}
 		&:before{
-			transform: translate(40px, -20px);
+			transform: translate(20px, -10px);
 		}
 
 		& iframe{
 			height: 300px;
 			height: 500px;
-			transform: translateY(30px);
+			transform: translateY(20px);
 		}
 
 		& .rer{
@@ -215,7 +216,7 @@ export default {
 
 	.left,
 	.portfolio-left {
-		margin-left: 100px;
+		margin-left: 0px;
 		display: -ms-grid;
 		display: grid;
 		place-content: center;
@@ -228,7 +229,13 @@ export default {
 	}
 }
 
-@media only screen and (min-width:82em){
+@media only screen and (min-width: 82em){
+	.featured{
+		margin-top: 90px;
+	}
+}
+
+@media only screen and (min-width:92em){
 
 	.featured{
 		margin-top: 100px;
@@ -240,7 +247,7 @@ export default {
 			margin-left: 50px;	
 		}
 		&:before {
-			transform: translate(140px, 20px);
+			transform: translate(90px, 0px);
 		}
 
 		& iframe{
@@ -264,7 +271,7 @@ export default {
 	
 
 	.left {
-		margin-left: 200px;
+		margin-left: 100px;
 		display: -ms-grid;
 		display: grid;
 		place-content: center;

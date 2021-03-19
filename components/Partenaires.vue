@@ -18,7 +18,7 @@ export default {
 <style lang="scss">
 .partenaires {
 	background-color: #d8dfd7;
-    height: 70vh;
+    
     
     & img {
 	    width: 150px;
@@ -35,23 +35,15 @@ export default {
 	}
 
 @media only screen and (max-width: 28em){
-   .partenaires{
-	   height: 100vh;
-	}
+  
 
 }
 
 @media only screen and (min-width:43em) {
-    .partenaires{
-		height: 35vh;
-	}
-}
+    
 
 @media only screen and (min-width: 62em){
-    .partenaires {
-		height: 35vh;
-		margin-top: -100px;
-	}
+  
 	.partenaires img {
 		width: 180px;
 		margin: 20px;
@@ -63,11 +55,8 @@ export default {
   
 }
 @media only screen and (min-width: 82em){
-	.partenaires{
-		margin-top: -200px;
-		height: 50vh;
-	}
-}
 
+}
+}
 
 </style>
