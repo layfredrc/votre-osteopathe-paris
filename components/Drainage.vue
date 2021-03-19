@@ -52,7 +52,7 @@ export default {
 <style lang="scss">
     .drainage {
         background-color: #d8dfd7;
-        height: 240vh;
+        height:2000px;
      
 
         & .healthy-body-img {
@@ -122,7 +122,7 @@ export default {
 @media only screen and (max-width: 28em){
     .drainage{
         
-        height: 250vh;
+        height: 1800px;
         & .healthy-body-img{
             position: absolute;
             top: 800px;
@@ -179,7 +179,7 @@ export default {
 
 @media only screen and (min-width:43em) {
     .drainage{
-        height: 180vh;
+        height: 1200px;
 
         & .healthy-body-img{
             position: absolute;
@@ -225,7 +225,7 @@ export default {
 
 @media only screen and (min-width: 62em){
     .drainage{
-        height: 200vh;
+        height: 1400px;
         
         & .healthy-body-img{
             position: absolute;
@@ -248,7 +248,7 @@ export default {
 
             & .drainage-card {
                 position: absolute;
-                left: 50%;
+                left: 48%;
                 top: 50px;
                 width: 400px;
                 height: 400px;
@@ -279,7 +279,7 @@ export default {
 }
 @media only screen and (min-width: 82em){
        .drainage{
-        height: 200vh;
+        height: 1500px;
        
 
         & .healthy-body-img{
