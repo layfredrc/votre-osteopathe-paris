@@ -53,36 +53,12 @@ export default {
     .drainage {
         background-color: #d8dfd7;
         height: 240vh;
-        padding-left: 70px;
-       
-        & .drainage-card {
-            position: absolute;
-            transform: translate(40px, 380px);
-            background-color: white;
-            width: 400px;
-            height: 360px;
-            font-family: "Poppins", sans-serif;
-            font-size: 28px;
-            text-align: left;
-            color: #2d4d44;
-            padding: 35px;
-        }
-
-        & .drainage-card2 {
-            position: absolute;
-            transform: translate(0px, 1250px);
-            background-color: white;
-            width: 400px;
-            height: 380px;
-            font-family: "Poppins", sans-serif;
-            font-size: 28px;
-            text-align: left;
-            color: #2d4d44;
-            padding: 45px;
-        }      
+     
 
         & .healthy-body-img {
-            transform: translate(80px, 850px);
+            position: absolute;
+            left: 35%;
+            top: 750px;
             width: 400px; 
         }
 
@@ -92,18 +68,22 @@ export default {
             & img{
                 height: 450px;
                 width: 350px;
-                display: block;
+             
+                
+            }
+
+            & .massage-img{
                 position: absolute;
-                left: 0;
-                top: 0;
+                left: 10%;
             }
 
             & .drainage-card {
                 position: absolute;
-                transform: translate(40px, 380px);
+                left: 25%;
+                top: 350px;
                 background-color: white;
                 width: 400px;
-                height: 360px;
+                height: 300px;
                 font-family: "Poppins", sans-serif;
                 font-size: 28px;
                 text-align: left;
@@ -113,7 +93,8 @@ export default {
 
             & .drainage-card2 {
                 position: absolute;
-                transform: translate(0px, 1250px);
+                left: 10%;
+                top: 1150px;
                 background-color: white;
                 width: 400px;
                 height: 380px;
@@ -140,35 +121,42 @@ export default {
 
 @media only screen and (max-width: 28em){
     .drainage{
-        padding-left: 30px;
-        height: 260vh;
+        
+        height: 250vh;
         & .healthy-body-img{
-            transform: translate(20px,850px);
-            width: 300px;
+            position: absolute;
+            top: 800px;
+            left: 12.5%;
+            width: 280px;
         }
 
         & .drainage-container{
             & img{
                 height: 400px;
-                width: 300px;
-                display: block;
+                width: 280px;
+                
+                
+            }
+
+            & .massage-img{
                 position: absolute;
-                left: 0;
-                top: 0;
+                left: 5%;
             }
 
             & .drainage-card {
-                transform: translate(20px, 360px);
+                position: absolute;
+                left: 8%;
                 width: 300px;
-                height: 400px;
-         
+                height: 340px;
                 padding: 30px;
             }
 
             & .drainage-card2 {
-                transform: translate(-15px, 1200px);
-                width: 320px;
-                height: 420px;
+                position: absolute;
+                left: 2.5%;
+                margin-top: 20px;
+                width: 300px;
+                height: 400px;
                 
                 padding: 35px;
             }      
@@ -191,10 +179,12 @@ export default {
 
 @media only screen and (min-width:43em) {
     .drainage{
-        height: 120vh;
+        height: 180vh;
 
         & .healthy-body-img{
-            transform: translate(280px,550px);
+            position: absolute;
+            left: 45%;
+            top: 500px;
             height: 500px;
         }
 
@@ -205,17 +195,27 @@ export default {
                 
             }
 
+            & .massage-img{
+                position: absolute;
+                left: 15%;
+
+            }
+
             & .drainage-card {
-                transform: translate(320px,30px);
+                position: absolute;
+                left: 50%;
+                top: 25px;
                 width: 300px;
                 height: 400px;
                 padding: 35px;
             }
 
             & .drainage-card2 {
-                transform: translate(-15px, 565px);
-                width: 320px;
-                height: 420px;
+                position: absolute;
+                left: 15%;
+                top: 525px;
+                width: 300px;
+                height: 400px;
                 padding: 35px;
             }      
         
@@ -225,12 +225,13 @@ export default {
 
 @media only screen and (min-width: 62em){
     .drainage{
-        height: 160vh;
-        padding-left: 150px;
-
+        height: 200vh;
+        
         & .healthy-body-img{
-            transform: translate(350px,600px);
+            position: absolute;
+            left: 50%;
             height: 500px;
+            margin-top: 100px;
         }
 
         & .drainage-container{
@@ -240,15 +241,24 @@ export default {
                 
             }
 
+            & .massage-img{
+                position: absolute;
+                left: 17.5%;
+            }
+
             & .drainage-card {
-                transform: translate(320px,50px);
+                position: absolute;
+                left: 50%;
+                top: 50px;
                 width: 400px;
                 height: 400px;
                 padding: 35px;
             }
 
             & .drainage-card2 {
-                transform: translate(0px, 655px);
+                position: absolute;
+                left: 17.5%;
+                top: 650px;
                 width: 420px;
                 height: 400px;
                 padding: 35px;
@@ -270,10 +280,12 @@ export default {
 @media only screen and (min-width: 82em){
        .drainage{
         height: 200vh;
-        padding-left: 380px;
+       
 
         & .healthy-body-img{
-            transform: translate(380px,700px);
+            margin-top: 200px;
+            position: absolute;
+            left: 45%;
             height: 500px;
         }
 
@@ -285,14 +297,24 @@ export default {
             }
 
             & .drainage-card {
-                transform: translate(450px,100px);
+                position: absolute;
+                left: 50%;
+                top: 150px;
                 width: 450px;
                 height: 300px;
                 padding: 35px;
             }
 
+            & .massage-img{
+                position: absolute;
+                left: 20%;
+                
+            }
+
             & .drainage-card2 {
-                transform: translate(0px, 800px);
+                position: absolute;
+                left: 20%;
+                top: 800px;
                 width: 420px;
                 height: 400px;
                 padding: 35px;
