@@ -308,7 +308,7 @@ $btnBeige:#f09d6d;
 
 }
 
-/* @media only screen and (min-width: 62em){
+@media only screen and (min-width: 63em){
 
 	.hero{
 		 display: -ms-grid;
@@ -321,21 +321,22 @@ $btnBeige:#f09d6d;
 		  & .content{
 			background: #b4cdbf;
             text-align: left;
-			padding: 6em 4em 4em 4em;
+			padding: 6em 8em 8em 6em;
         }
 	}
 	.scroll{
-		display: none;
+		display: block;
+		margin-left: 0px;
 	}
 
 	.slogan{
-		font-size: 46px;
+		font-size: 40px;
 
 	}
 
 	.mosaique{
-		width: 550px;
-		transform: translate(-185px,25px);
+		width: 500px;
+		transform: translate(-150px,35px);
 
 	}
 	.meet{
@@ -354,11 +355,11 @@ $btnBeige:#f09d6d;
 	.btn{
 		font-size: 16px !important;
 		&,&:link,&:visited{
-			padding: 0.9rem 2.5rem;
+			padding: 0.8rem 1.6rem;
 		}
 	}
     
-} */
+}
 
 @media only screen and (min-width:82em){
     .hero {

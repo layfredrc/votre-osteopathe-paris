@@ -128,14 +128,14 @@ header {
     
 }
 
-/* @media only screen and (min-width: 72em){
+@media only screen and (min-width: 63em){
     .nav-container {
 		display: -ms-grid;
 		display: grid;
 		-ms-grid-columns: 66% auto;
 		grid-template-columns: 66% auto;
 		background: unset;
-        font-size: 18px;
+        font-size: 15px;
         & header{
             background: #a4c3b2;
         }
@@ -171,7 +171,7 @@ header {
 		color: black;
 		margin-right: auto;
 		width: 180px;
-        font-size: 16px;
+        font-size: 15px;
         
         & span{
             display: inline-block;
@@ -179,11 +179,11 @@ header {
             width: 120px;
             font-weight: 600;
             text-decoration: underline;
-            transform: translate(45px, -28px);
+            transform: translate(35px, -28px);
         }
 	}
 
-} */
+}
 
 @media only screen and (min-width:82em){
 
