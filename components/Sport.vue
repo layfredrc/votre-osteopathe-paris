@@ -1,9 +1,9 @@
 <template>
     <!-- horizontal card -->
 <div class="p-8 md:p-4 lg:p-12 bg-pale-green " id="sport">
-  <h1 class="subtitle  slogan text-gradient text-center" style="font-size: 30px; ">Votre remise en forme</h1>
+  <h1 class="subtitle  slogan text-gradient text-center mb-12" style="font-size: 30px; ">Votre remise en forme</h1>
 
-    <div class="visible md:invisible lg:invisible xl:invisible bg-white rounded-3xl shadow-2xl md:flex mt-8 w-full">
+    <div class="visible md:invisible lg:invisible xl:invisible bg-white rounded-3xl shadow-2xl md:flex mt-8 w-full little-card">
       <img src="https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-3xl  ">
       <div class="p-6">
         <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Fixez vos Objectifs !</h2>
@@ -15,7 +15,7 @@
     </div>
 
 
-    <div class="invisible md:visible lg:visible xl:visible bg-white rounded-3xl shadow-2xl md:flex mt-10  md:mt-0 lg:mt-0 xl:mt-0 lg:max-w-5xl xl:max-w-5xl  mx-auto md:transform md:-translate-y-48 lg:-translate-y-64 xl:-translate-y-64">
+    <div class="invisible md:visible lg:visible xl:visible bg-white rounded-3xl shadow-2xl md:flex mt-10  md:mt-0 lg:mt-0 xl:mt-0 lg:max-w-5xl xl:max-w-5xl  mx-auto md:transform ">
       <div class="  w-full  md:w-full  lg:w-4/5 xl:w-4/5 ">
           <img src="https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80" alt="Night Sky" class=" md:rounded-tl-3xl rounded-t-3xl md:rounded-t-none">
           <img src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80" alt="Night Sky" class=" md:rounded-bl-3xl  md:rounded-b-none ">
@@ -50,30 +50,52 @@ export default {
 <style lang="scss" scoped>
   #sport{
     height: 800px;
+
+    & .little-card{
+      display: block;
+    }
   }
 
  @media only screen and (max-width: 28em){
   #sport{
     height: 700px;
+
+    & .little-card{
+      display: block;
+    }
   }
+
+}
+
+@media only screen and (max-width: em){
 
 }
 
 @media only screen and (min-width:43em) {
   #sport{
-    height: 800px;
+    height: 700px;
+
+    & .little-card{
+      display: none;
+    }
   }
 }
 
 @media only screen and (min-width: 62em){
   #sport{
     height: 800px;
+    & .little-card{
+      display: none;
+    }
   }
 }
 
 @media only screen and (min-width: 82em){
   #sport{
     height: 800px;
+    & .little-card{
+      display: none;
+    }
   }
 }
 
