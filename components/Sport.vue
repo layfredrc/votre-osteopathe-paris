@@ -9,13 +9,13 @@
         <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Fixez vos Objectifs !</h2>
         <p class="text-dark-green">Disciplinez-vous pour les atteindres.</p>
         <div class="mt-4 md:mt-2 xl:mt-12">
-            <a href="../sportBrochure.pdf" target="_blank" class="inline-block bg-gradient-to-br from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-700 font-semibold rounded-lg py-2 px-5 lg:px-6 md:px-3 md:text-sm text-white">En savoir plus</a>
+            <a href="../sportBrochure.pdf" target="_blank" rel="noopener" class="inline-block bg-gradient-to-br from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-700 font-semibold rounded-lg py-2 px-5 lg:px-6 md:px-3 md:text-sm text-white">En savoir plus</a>
         </div>
       </div>
     </div>
 
 
-    <div class="invisible md:visible lg:visible xl:visible bg-white rounded-3xl shadow-2xl md:flex mt-10  md:mt-0 lg:mt-0 xl:mt-0 lg:max-w-5xl xl:max-w-5xl  mx-auto md:transform md:-translate-y-24 lg:-translate-y-48 xl:-translate-y-64">
+    <div class="invisible md:visible lg:visible xl:visible bg-white rounded-3xl shadow-2xl md:flex mt-10  md:mt-0 lg:mt-0 xl:mt-0 lg:max-w-5xl xl:max-w-5xl  mx-auto md:transform md:-translate-y-48 lg:-translate-y-64 xl:-translate-y-64">
       <div class="  w-full  md:w-full  lg:w-4/5 xl:w-4/5 ">
           <img src="https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80" alt="Night Sky" class=" md:rounded-tl-3xl rounded-t-3xl md:rounded-t-none">
           <img src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80" alt="Night Sky" class=" md:rounded-bl-3xl  md:rounded-b-none ">
@@ -28,7 +28,7 @@
           <p class="text-dark-green text-base md:text-sm lg:text-sm lg:mt-4 xl:text-base xl:mt-8 ">Vous sentez l'envie de changer votre hygiène de vie ?</p>
           <p class="text-dark-green text-base md:text-sm lg:text-sm xl:text-base">Dans cette aventure, le plus dur c'est de commencer. <br>L'idée est de vous amener vers une transition physique et mentale durable.</p>
             <div class="mt-4 md:mt-2 xl:mt-12">
-            <a href="../sportBrochure.pdf" target="_blank" class="inline-block bg-gradient-to-br from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-700 font-semibold rounded-lg py-2 px-5 lg:px-6 md:px-3 md:text-sm text-white">En savoir plus</a>
+            <a href="../sportBrochure.pdf" target="_blank" rel="noopener" class="inline-block bg-gradient-to-br from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-700 font-semibold rounded-lg py-2 px-5 lg:px-6 md:px-3 md:text-sm text-white">En savoir plus</a>
           </div>
         </div>
         <div class="invisible md:visible lg:visible xl:visible">

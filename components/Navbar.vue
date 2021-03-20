@@ -11,6 +11,7 @@
 							<a
 								href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
 								target="_blank"
+                                rel="noopener"
 								class="hover:underline">Prendre RDV</a
 							>
 						</li>
@@ -33,6 +34,7 @@
 					<li class="img-doctolib">
 						<a
 							target="_blank"
+                            rel="noopener"
 							href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
 							><img src="../assets/icone-doctolib.png" alt="doctolib patricia chung"
 						/></a>
@@ -41,6 +43,7 @@
 					<li class="ig">
 						<a
 							target="_blank"
+                            rel="noopener"
 							href="https://www.instagram.com/osteopathe.paris16/"
 							><img
 								src="../assets/icon-ig.png" alt="instagram"/>
@@ -49,6 +52,7 @@
 					<li class="fb">
 						<a
 							target="_blank"
+                            rel="noopener"
 							href="https://www.google.com/maps/dir//48.8407981,2.2565078/@48.840798,2.256508,14z?hl=fr"
 							><img src="../assets/icon-google-maps.png" alt="google maps"/></a>
 					</li>

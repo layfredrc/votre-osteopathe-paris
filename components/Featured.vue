@@ -51,6 +51,7 @@
 					aria-hidden="false"
 					tabindex="0"
 					class="right transition2"
+					name="google maps"
 				></iframe>
 			</div>
 		</section>

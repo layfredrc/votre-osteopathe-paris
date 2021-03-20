@@ -13,8 +13,8 @@
                     <li class="navigation__item"><nuxt-link to="/" class="navigation__link"><span>01</span>Accueil</nuxt-link></li>
                     <li class="navigation__item"><nuxt-link to="/services" class="navigation__link"><span>02</span>Services</nuxt-link></li>
                     <li class="navigation__item"><nuxt-link to="/patriciaChung" class="navigation__link"><span>03</span>Votre Ostéopathe</nuxt-link></li>
-                    <li class="navigation__item"><a href="https://www.doctolib.fr/osteopathe/paris/patricia-chung" target="_blank" class="navigation__link"><span>04</span>Prendre RDV</a></li>
-                    <li class="navigation__item"><nuxt-link to="/#accessibility"  class="navigation__link"><span>05</span>Accessibilité</nuxt-link></li>
+                    <li class="navigation__item"><a href="https://www.doctolib.fr/osteopathe/paris/patricia-chung" target="_blank" rel="noopener" class="navigation__link" no><span>04</span>Prendre RDV</a></li>
+                    <li class="navigation__item"><a href="https://www.google.com/maps/dir//48.8407981,2.2565078/@48.840798,2.256508,14z?hl=fr" rel="noopener" target="_blank" class="navigation__link"><span>05</span>Accessibilité</a></li>
                  </ul>
             </nav>
         </div>

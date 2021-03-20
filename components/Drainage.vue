@@ -28,6 +28,7 @@
                             <div class="mx-auto">
                                 <a href="../Drainage.pdf"
                                     target="_blank"
+                                    rel="noopener"
                                     class="mt-4 inline-block bg-gradient-to-br from-pale-green to-dark-green hover:from-dark-green hover:to-pale-green font-semibold rounded-lg py-2 px-5 lg:px-6 text-lg text-white">En savoir plus
                                 </a>
                             </div>
