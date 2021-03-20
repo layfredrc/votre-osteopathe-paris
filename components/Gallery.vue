@@ -1,7 +1,7 @@
 <template>
   <section class="section-cabinet" id="section4">
 			<h1
-				class="heading-secondary u-center-text text-gradient u-margin-top-small"
+				class="heading-secondary u-center-text text-gradient u-margin-top-small mb-8"
 			>
 				Votre Cabinet
 			</h1>
@@ -162,7 +162,7 @@ export default {
 <style lang="scss">
     
 
-    .gallery {
+.gallery {
 	background-color: #f9f7f6;
 	grid-column: full-start / full-end;
 	display: grid;
@@ -241,7 +241,7 @@ export default {
 	transform: scale(1.025);
 }
 
-.modal {
+/* .modal {
 	background: rgba(0, 0, 0, 0.6);
 	opacity: 0;
 	position: fixed;
@@ -277,7 +277,13 @@ export default {
 
 .full-img.open {
 	transform: translate(-50%, -50%) scale(1);
-}
+} */
+
+  .heading-secondary{
+        font-size: 36px;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
 
 @media only screen and (min-width:82em){
 	
@@ -287,28 +293,16 @@ export default {
 
 
 
-    .heading-secondary{
-        font-size: 36px;
-        font-weight: 600;
-        text-transform: uppercase;
-    }
+  
 }
 @media only screen and (min-width: 43em) {
 
 	
 
-    .heading-secondary{
-        font-size: 36px;
-        font-weight: 600;
-        text-transform: uppercase;
-    }
+   
 }
 @media only screen and (max-width: 28em) {
-    .heading-secondary{
-        font-size: 36px;
-        font-weight: 600;
-        text-transform: uppercase;
-    }
+  
 
     .gallery{
         padding: 5px;

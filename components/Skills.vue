@@ -91,7 +91,7 @@
 							<strong>trouble du comportement ?</strong>
 							<br />
 
-							Il <strong>régurgite</strong>systématiquement après la tétée ? Il
+							Il <strong>régurgite</strong> systématiquement après la tétée ? Il
 							se tord de douleurs en raison d’une <strong>colique</strong> ou
 							d’une <strong>constipation </strong>
 							? Il se cambre en arrière ?
@@ -196,7 +196,7 @@ export default {
 
 @media only screen and (min-width: 82em){
 	.skills{
-		 padding-left: 10em;
+		padding-left: 10em;
         padding-bottom: 10em;
         padding-right:  10em;
 	}
