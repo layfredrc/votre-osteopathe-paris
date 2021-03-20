@@ -86,38 +86,38 @@ export default {
 <style lang="scss">
   
   .instagram{
-    width: 80vw;
+    width: 80%;
      padding-left: 60px;
   }
 
   .section-avis{
-    width: 80vw;
+    width: 80%;
      padding-left: 60px;
 
   }
 
   @media only screen and (max-width: 28em){
     .section-avis{
-      width: 70vw;
-      padding-left: 60px;
+      /* width: 70vw; */
+      padding-left: 15%;
     }
 
     .instagram{
-      width: 70vw;
-      padding-left: 60px;
+      /* width: 70vw; */
+      padding-left: 5%;
     }
   }
 
   @media only screen and (min-width: 43em){
     .instagram{
       margin-left: 80px;
-      width: 80vw;
-      padding-left:0px;
+   
+      padding-left: 0px;
 
     }
 
     .section-avis{
-      width: 80vw;
+    
       margin-left: 80px;
       padding-left:0px;
     }
