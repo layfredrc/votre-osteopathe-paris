@@ -1,7 +1,7 @@
 <template>
  <div class="nav-container">
 			<header>
-				<nuxt-link to="/" class="logo"><img src="../assets/Logo.png" alt="Logo" /></nuxt-link>
+				<nuxt-link to="/" class="logo"><img src="../assets/PAT LOGO 2 - 230121.png" alt="Logo" /></nuxt-link>
 				<nav>
 					<ul>
 						<li><nuxt-link to="/services" class="hover:underline">Services</nuxt-link></li>
@@ -102,8 +102,8 @@ header {
     }
 
     & .logo{
-        width:82px;
-        transform: translate(-5px,-25px);
+        width:100px;
+        transform: translate(-5px,-30px);
     }
 
 }
@@ -127,7 +127,7 @@ header {
 	header{
         height: 95px;
 		& .logo{
-		transform: translate(-5px,-25px);
+		transform: translate(-5px,-35px);
 	}
 	}
     
