@@ -39,7 +39,9 @@ export default {
   head(){
     return{
       script:[
-        {hid:'elfsight', src:'https://apps.elfsight.com/p/platform.js',defer:true}
+        {hid:'elfsight', src:'https://apps.elfsight.com/p/platform.js',defer:true},
+        {hid:'gsap',src:"https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"},
+        {hid:'scrollTrigger', src:"https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js"}
       ]
     }
   },
@@ -71,7 +73,67 @@ export default {
       }
     },false)
     
+    gsap.registerPlugin(ScrollTrigger);
+			var tl = gsap.timeline();
 
+			tl.from(".content", {
+				y: "-30%",
+				opacity: 0,
+				duration: 1.5,
+				ease: Power3.easeOut,
+			});
+
+			tl.from(
+				".stagger1",
+				{
+					opacity: 0,
+					y: -50,
+					stagger: 0.3,
+					duration: 2,
+					ease: Power4.easeOut,
+				},
+				"-=1.5"
+			);
+
+			tl.from(
+				".hero-design",
+				{
+					opacity: 0,
+					y: 50,
+					ease: Power4.easeOut,
+					duration: 0.5,
+				},
+				"-=2"
+			);
+
+			gsap.from(".square-anim", {
+				stagger: 0.5,
+				scale: 0.1,
+				duration: 2,
+				ease: Back.easeOut.config(1.7),
+			});
+
+			gsap.from(".transition2", {
+				scrollTrigger: {
+					trigger: ".transition2",
+					start: "top center",
+				},
+				y: 50,
+				opacity: 0,
+				stagger: 0.3,
+				duration: 1.2,
+			});
+
+			gsap.from(".transition3", {
+				scrollTrigger: {
+					trigger: ".transition3",
+					start: "top center",
+				},
+				y: 50,
+				opacity: 0,
+				stagger: 0.6,
+				duration: 1.2,
+			});
 
 
    

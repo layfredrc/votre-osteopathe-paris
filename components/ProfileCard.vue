@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="bg-cover h-full" style="background-image:url('https://images.unsplash.com/photo-1492724724894-7464c27d0ceb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80');">
-            <div class="max-w-5xl flex items-center h-screen flex-wrap mx-auto lg:mx-6 xl:mx-auto lg:my-0">
+            <div class="max-w-5xl flex items-center h-screen flex-wrap mx-auto lg:mx-6 xl:mx-auto lg:my-0 mb-16">
         
                 <!--Main Col-->
                 <div id="profile" class="w-full h-72 lg:w-3/5 rounded-lg lg:rounded-l-xl lg:rounded-r-none shadow-2xl bg-white mt-12 lg:mt-0 mx-6 lg:mx-0">
@@ -18,10 +18,10 @@
                         <p class="pt-2 text-gray-600 text-xs lg:text-sm flex items-center justify-center lg:justify-start"><svg class="h-4 fill-current text-green-700 pr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 20a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm7.75-8a8.01 8.01 0 0 0 0-4h-3.82a28.81 28.81 0 0 1 0 4h3.82zm-.82 2h-3.22a14.44 14.44 0 0 1-.95 3.51A8.03 8.03 0 0 0 16.93 14zm-8.85-2h3.84a24.61 24.61 0 0 0 0-4H8.08a24.61 24.61 0 0 0 0 4zm.25 2c.41 2.4 1.13 4 1.67 4s1.26-1.6 1.67-4H8.33zm-6.08-2h3.82a28.81 28.81 0 0 1 0-4H2.25a8.01 8.01 0 0 0 0 4zm.82 2a8.03 8.03 0 0 0 4.17 3.51c-.42-.96-.74-2.16-.95-3.51H3.07zm13.86-8a8.03 8.03 0 0 0-4.17-3.51c.42.96.74 2.16.95 3.51h3.22zm-8.6 0h3.34c-.41-2.4-1.13-4-1.67-4S8.74 3.6 8.33 6zM3.07 6h3.22c.2-1.35.53-2.55.95-3.51A8.03 8.03 0 0 0 3.07 6z"/></svg>Paris 16 - Pôle de Santé Murat, 89 Boulevard Murat 75016 Paris</p></a>
                         
                             <div class="pt-4 space-y-2 prose">
-                             <h2 class=""><span class="font-bold text-green-500">Ostéopathe agréée,</span> <span class="text-green-500">Patricia Chung</span>  vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.</h2>
-                                <p class="text-sm"> Elle accueille types de patients du <span class="font-bold">nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif.</span></p>
-                                <p class="text-sm">Son <span class="font-bold ">approche thérapeutique</span> vise à répondre aux <span class="font-bold ">besoins spécifiques</span> des patients, en <span class="font-bold">personnalisant</span> chaque traitement afin d'obtenir un <span class="font-bold ">résultat efficace sur le long terme.</span></p>
-                                <p class="text-sm"> Vis-à-vis de sa technicité, elle réalise des manipulations adaptées à chaque patient afin de <span class="font-bold ">soulager les tensions, les déséquilibres et les douleurs.</span> Elle rétablit la <span class="font-bold ">mobilité des organes internes et du système musculo-squelettique</span>, permettant un <span class="font-bold ">meilleur équilibre et fonctionnement du corps.</span></p>
+                             <h2 class=""><span class="font-bold text-green-500 ">Ostéopathe agréée,</span> <span class="text-green-500">Patricia Chung</span>  vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.</h2>
+                                <p class="text-xs md:text-sm lg:text-sm xl:text-sm "> Elle accueille types de patients du <span class="font-bold">nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif.</span></p>
+                                <p class="text-xs md:text-sm lg:text-sm xl:text-sm">Son <span class="font-bold ">approche thérapeutique</span> vise à répondre aux <span class="font-bold ">besoins spécifiques</span> des patients, en <span class="font-bold">personnalisant</span> chaque traitement afin d'obtenir un <span class="font-bold ">résultat efficace sur le long terme.</span></p>
+                                <p class="text-xs md:text-sm lg:text-sm xl:text-sm"> Vis-à-vis de sa technicité, elle réalise des manipulations adaptées à chaque patient afin de <span class="font-bold ">soulager les tensions, les déséquilibres et les douleurs.</span> Elle rétablit la <span class="font-bold ">mobilité des organes internes et du système musculo-squelettique</span>, permettant un <span class="font-bold ">meilleur équilibre et fonctionnement du corps.</span></p>
                             </div>
                        
                             

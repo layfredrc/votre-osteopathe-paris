@@ -254,7 +254,7 @@ export default {
 		& iframe{
 			width: 800px;
 			height: 550px;
-			transform: translateY(20px);
+			transform: translateY(-10px);
 			z-index: 100;
 		}
 

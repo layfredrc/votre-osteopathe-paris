@@ -5,20 +5,20 @@
             <div class="max-w-screen-lg mx-auto  lg:mx-32 font-semibold">
                 <h1 class="text-3xl lg:text-5xl font-bold text-gray-800 text-left">Mon parcours</h1>
                 <p class="text-base md:text-lg text-gray-500 mt-4">News updates and improvements to windlog</p>
-                <nav class="flex space-x-4 lg:space-x-6 mt-8">
+                <nav class="flex space-x-4 lg:space-x-6 ">
                
                 </nav>
             </div>
             </header>
 
-            <div class="px-6 lg:px-8 py-24">
+            <div class="px-6 lg:px-8 ">
 
             <div class="md:grid md:grid-cols-4 max-w-screen-lg mx-auto">
                 <div class="md:col-span-1 md:pr-12 lg:pr-16">
                 <div class="md:border-r h-full relative pb-4 md:pb-0 md:pt-2">
                     <div class="md:text-right md:pr-10">
                     <span
-                        class="font-medium md:font-normal inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
+                        class="font-bold inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
                         Expériences
                     </span>
                     <span
@@ -56,7 +56,7 @@
                 <div class="md:border-r h-full relative pb-4 md:pb-0 md:pt-2">
                     <div class="md:text-right md:pr-10">
                     <span
-                        class="font-medium md:font-normal inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
+                        class="font-bold inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
                         Formation ostéopathiques post-graduées
                     </span>
                     <span
