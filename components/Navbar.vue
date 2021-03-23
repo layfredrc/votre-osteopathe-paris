@@ -31,7 +31,7 @@
 						>
 					</li>
 
-					<li class="img-doctolib">
+					<li>
 						<a
 							target="_blank"
                             rel="noopener"
@@ -39,8 +39,17 @@
 							><img src="../assets/icone-doctolib.png" alt="doctolib patricia chung"
 						/></a>
 					</li>
-
-					<li class="ig">
+                    
+	                <li>
+						<a
+							target="_blank"
+                            rel="noopener"
+							href="https://www.facebook.com/osteopatheportedesaintcloud"
+							><img
+								src="../assets/icons8-facebook-48.png" alt="facebook"/>
+						/></a>
+					</li>
+					<li>
 						<a
 							target="_blank"
                             rel="noopener"
@@ -160,7 +169,7 @@ header {
             justify-content: space-between;
             float: right;
 	
-            width: 18em;
+            width: 20em;
             
             & ul li{
                 width: 80px;
@@ -176,7 +185,7 @@ header {
     .num {
 		color: black;
 		margin-right: auto;
-		width: 180px;
+		width: 200px;
         font-size: 15px;
         
         & span{
