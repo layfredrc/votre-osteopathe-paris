@@ -25,8 +25,6 @@ export default {
     return{
       script:[
         {hid:'elfsight', src:'https://apps.elfsight.com/p/platform.js',defer:true},
-        {hid:'gsap',src:"https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"},
-        {hid:'scrollTrigger', src:"https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js"}
       ]
     }
   },
@@ -37,6 +35,9 @@ export default {
     
     var isInViewport = function (elem) {
       var bounding = elem.getBoundingClientRect();
+      if(bounding == null){
+        return null;
+      }
       return (
         bounding.top >= 0 &&
         bounding.left >= 0 &&
@@ -80,16 +81,6 @@ export default {
 				"-=1.5"
 			);
 
-			tl.from(
-				".hero-design",
-				{
-					opacity: 0,
-					y: 50,
-					ease: Power4.easeOut,
-					duration: 0.5,
-				},
-				"-=2"
-			);
 
 			gsap.from(".square-anim", {
 				stagger: 0.5,

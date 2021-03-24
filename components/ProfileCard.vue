@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="bg-cover h-full" style="background-image:url('https://images.unsplash.com/photo-1492724724894-7464c27d0ceb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80');">
-            <div class="max-w-5xl flex items-center h-screen flex-wrap mx-auto lg:mx-6 xl:mx-auto lg:my-0 mb-16 content">
+            <div class="max-w-5xl flex items-center h-screen flex-wrap mx-auto lg:mx-6 xl:mx-auto lg:my-0 mb-16 profilecard">
         
                 <!--Main Col-->
                 <div id="profile" class="w-full h-72 lg:w-3/5 rounded-lg lg:rounded-l-xl lg:rounded-r-none shadow-2xl bg-white mt-12 lg:mt-0 mx-6 lg:mx-0">
@@ -63,6 +63,15 @@
 
 <script>
 export default {
-    
+    mounted(){
+        var tl = gsap.timeline();
+
+			tl.from(".profilecard", {
+				y: "-30%",
+				opacity: 0,
+				duration: 2.5,
+				ease: Power4.easeOut,
+			});
+    }
 }
 </script>

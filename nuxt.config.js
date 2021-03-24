@@ -60,8 +60,16 @@ export default {
         content: 'Votre Ostéopathe Paris 16ème | Patricia Chung',
       },
       { hid: 'google-site-verification', name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN },
-    ]
+    ],
+    script: [
+
+      { hid: 'gsap', src: "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js", defer: true },
+      { hid: 'scrollTrigger', src: "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js", defer: true }
+    ],
+
   },
+
+
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [

@@ -32,7 +32,7 @@ export default {
             compteur ++;
         navLinks.forEach(link => {
            
-            console.log(compteur);
+       
             if(compteur === 1 ){
             link.style.display = "inline-block";
             }else {

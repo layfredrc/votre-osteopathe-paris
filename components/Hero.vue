@@ -14,6 +14,7 @@
 						href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
 						class="btn btn--green btn--animated mobile"
 						target="_blank"
+						rel="noopener"
 						>Prendre un RDV</a
 					>
 					<nuxt-link to="/services" class="btn btn--beige btn--animated mobile-btn-beige"

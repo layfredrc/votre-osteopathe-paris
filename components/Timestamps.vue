@@ -13,7 +13,7 @@
 					</p>
 				</div>
 
-				<div class="max-w-3xl mx-auto transition4">
+				<div class="max-w-3xl mx-auto tarifs">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 rounded-t-lg space-x-4"
 					>
@@ -31,7 +31,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto transition4">
+				<div class="max-w-3xl mx-auto tarifs">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-75"
 					>
@@ -50,7 +50,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto transition4">
+				<div class="max-w-3xl mx-auto tarifs">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-75"
 					>
@@ -69,7 +69,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto transition4">
+				<div class="max-w-3xl mx-auto tarifs">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-50"
 					>
@@ -88,7 +88,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto transition4">
+				<div class="max-w-3xl mx-auto tarifs">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-75"
 					>
@@ -107,7 +107,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto transition4">
+				<div class="max-w-3xl mx-auto tarifs">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 rounded-b-lg"
 					>
@@ -132,6 +132,18 @@
 </template>
 <script>
 export default {
-    
+    mounted(){
+		gsap.registerPlugin(ScrollTrigger);
+			gsap.from(".tarifs", {
+				scrollTrigger: {
+					trigger: ".tarifs",
+					start: "top center",
+				},
+				y: 50,
+				opacity: 0,
+				stagger: 0.3,
+				duration: 1.2,
+			});
+	}
 }
 </script>
