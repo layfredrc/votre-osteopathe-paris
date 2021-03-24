@@ -1,7 +1,7 @@
 <template>
   <section class="featured" id="accessibility">
 			<div class="left">
-				<div class="inner transition2">
+				<div class="inner transition1">
 					<p class="subtitle">Accessibilité</p>
 					<h3 href="" class="featured-title"
 						>Pôle de Santé Murat, <br />89 Boulevard Murat 75016 Paris</h3
@@ -50,7 +50,7 @@
 					allowfullscreen=""
 					aria-hidden="false"
 					tabindex="0"
-					class="right transition2"
+					class="right transition1"
 					name="google maps"
 				></iframe>
 			</div>

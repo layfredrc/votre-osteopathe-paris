@@ -20,22 +20,7 @@
 <script>
 
 export default {
-  components:{
-    Navbar: () => import('../components/Navbar'),
-    Hero: () => import('../components/Hero'),
-    Featured: () => import('../components/Featured'),
-    Skills: () => import('../components/Skills'),
-    Partenaires: () => import('../components/Partenaires'),
-    Navigation: () => import('../components/Navigation'),
-    Drainage: () => import('../components/Drainage'),
-   
-    Sport: () => import('../components/Sport'),
-    Footer: () => import('../components/Footer'),
-    Gallery: () => import('../components/Gallery'),
-    GoogleReviews: () => import('../components/GoogleReviews'),
-    InstagramFeed: () => import('../components/InstagramFeed'),
-   
-  },
+ 
   head(){
     return{
       script:[
@@ -113,6 +98,17 @@ export default {
 				ease: Back.easeOut.config(1.7),
 			});
 
+      	gsap.from(".transition1", {
+				scrollTrigger: {
+					trigger: ".transition1",
+					start: "top center",
+				},
+				y: 50,
+				opacity: 0,
+				stagger: 0.3,
+				duration: 1.2,
+			});
+
 			gsap.from(".transition2", {
 				scrollTrigger: {
 					trigger: ".transition2",
@@ -135,7 +131,27 @@ export default {
 				duration: 1.2,
 			});
 
+      	gsap.from(".transition4", {
+				scrollTrigger: {
+					trigger: ".transition4",
+					start: "top center",
+				},
+				y: 50,
+				opacity: 0,
+				stagger: 0.6,
+				duration: 1.2,
+			});
 
+      gsap.from(".transition5", {
+				scrollTrigger: {
+					trigger: ".transition5",
+					start: "top center",
+				},
+				y: 50,
+				opacity: 0,
+				stagger: 0.3,
+				duration: 1.2,
+			});
    
 
     
@@ -161,12 +177,12 @@ export default {
   @media only screen and (max-width: 28em){
     .section-avis{
       /* width: 70vw; */
-      padding-left: 15%;
+      padding-left: 8%;
     }
 
     .instagram{
       /* width: 70vw; */
-      padding-left: 5%;
+      padding-left: 0%;
     }
   }
 

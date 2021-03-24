@@ -20,7 +20,7 @@
 				</div>
 
 				<!-- grid area of things  -->
-				<div class="lg:grid grid-cols-6 gap-10 space-y-8 lg:space-y-0 mb-16">
+				<div class="lg:grid grid-cols-6 gap-10 space-y-8 lg:space-y-0 mb-16 transition5">
 					<div class="col-span-2 border border-gray-700 rounded shadow-lg">
 						<div
 							class="relative flex justify-between p-4 border-b border-gray-700"

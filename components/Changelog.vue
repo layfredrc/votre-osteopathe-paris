@@ -13,7 +13,7 @@
 
             <div class="px-6 lg:px-8 ">
 
-            <div class="md:grid md:grid-cols-4 max-w-screen-lg mx-auto">
+            <div class="md:grid md:grid-cols-4 max-w-screen-lg mx-auto transition2">
                 <div class="md:col-span-1 md:pr-12 lg:pr-16">
                 <div class="md:border-r h-full relative pb-4 md:pb-0 md:pt-2">
                     <div class="md:text-right md:pr-10">
@@ -51,7 +51,7 @@
                 </div>
             </div>
 
-            <div class="md:grid md:grid-cols-4 max-w-screen-lg mx-auto">
+            <div class="md:grid md:grid-cols-4 max-w-screen-lg mx-auto transition3">
                 <div class="md:col-span-1 md:pr-12 lg:pr-16">
                 <div class="md:border-r h-full relative pb-4 md:pb-0 md:pt-2">
                     <div class="md:text-right md:pr-10">

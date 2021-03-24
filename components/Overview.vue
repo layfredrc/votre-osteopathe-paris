@@ -1,7 +1,7 @@
 <template>
     <div>
         <!-- Overview  ============================================================================= -->
-		<div id="about" class="relative bg-dark-green lg:pt-12 pb-24">
+		<div id="about" class="relative bg-dark-green lg:pt-12 pb-24 content">
 			<!-- gray bar to help section transition  -->
 
 			<div class="absolute bottom-0 inset-x-0 bg-gray-200 h-48"></div>

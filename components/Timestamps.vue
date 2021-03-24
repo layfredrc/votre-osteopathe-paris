@@ -1,7 +1,7 @@
 <template>
     <!-- module/videos ==================================================================== -->
 		<div class="py-24 bg-gradient-to-b from-gray-700 to-gray-800" id="tarifs">
-			<div class="container mx-auto px-10">
+			<div class="container mx-auto px-10 ">
 				<div class="mb-10 text-center space-y-4">
 					<h2
 						class="text-4xl lg:text-6xl text-transparent bg-clip-text bg-gradient-to-br from-white to-purple-200 font-bold"
@@ -13,7 +13,7 @@
 					</p>
 				</div>
 
-				<div class="max-w-3xl mx-auto">
+				<div class="max-w-3xl mx-auto transition4">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 rounded-t-lg space-x-4"
 					>
@@ -31,7 +31,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto">
+				<div class="max-w-3xl mx-auto transition4">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-75"
 					>
@@ -50,7 +50,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto">
+				<div class="max-w-3xl mx-auto transition4">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-75"
 					>
@@ -69,7 +69,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto">
+				<div class="max-w-3xl mx-auto transition4">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-50"
 					>
@@ -88,7 +88,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto">
+				<div class="max-w-3xl mx-auto transition4">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 bg-opacity-75"
 					>
@@ -107,7 +107,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="max-w-3xl mx-auto">
+				<div class="max-w-3xl mx-auto transition4">
 					<div
 						class="flex justify-between items-center p-6 bg-gray-800 text-gray-100 rounded-b-lg"
 					>
