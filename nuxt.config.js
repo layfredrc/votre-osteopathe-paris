@@ -55,7 +55,7 @@ export default {
         content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
       },
       { hid: 'og:locale', name: 'og:locale', content: 'fr' },
-      { hid: 'og:image', name: 'og:image', content: 'https://www.facebook.com/osteopatheportedesaintcloud/photos/a.101396578388187/129330248928153/' },
+      { hid: 'og:image', name: 'og:image', content: '/favicon.ico' },
       {
         hid: 'og:image:alt',
         property: 'og:image:alt',
