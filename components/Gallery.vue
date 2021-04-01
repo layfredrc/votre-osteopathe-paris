@@ -105,7 +105,7 @@
 				</figure>
 				<figure class="gallery__item gallery__item--13">
 					<img
-						src="../assets/gal-13.jpeg"
+						src="../assets/Component 3.jpeg"
 						alt="Gallery image 13"
 						class="gallery__img"
 						data-original="gal-13.jpeg"

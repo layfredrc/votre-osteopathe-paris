@@ -11,7 +11,9 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet pour apaiser toutes vos douleurs !' }
+      {
+        hid: 'description', name: 'description', content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme."
+      }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -25,22 +27,22 @@ export default {
       {
         hid: 'twitter:site',
         name: 'twitter:site',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
+        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
       },
       {
         hid: 'twitter:creator',
         name: 'twitter:creator',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
+        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
       },
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
+        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet !',
+        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
       },
       { hid: 'keywords', name: 'keywords', content: 'osteopathe, paris, paris 16eme, 16, douleurs, drainage lymphatique, femme enceinte, nourisson, sportifs, nutrition, urgence, soins, cabinet' },
       { hid: 'og:type', name: 'og:type', content: 'website' },
@@ -50,7 +52,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content: 'Votre Osthéopathe à Paris 16eme Patricia Chung vous accueille dans son cabinet pour apaiser toutes vos douleurs !',
+        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
       },
       { hid: 'og:locale', name: 'og:locale', content: 'fr' },
       { hid: 'og:image', name: 'og:image', content: 'https://www.facebook.com/osteopatheportedesaintcloud/photos/a.101396578388187/129330248928153/' },
