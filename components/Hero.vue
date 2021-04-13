@@ -250,9 +250,12 @@ $btnBeige:#f09d6d;
     header nav ul{
         display: none;
     }
-	.hero{
+	
+	.mosaique{
+		transform: translate(0px,0px);
 	
 	}
+
 	.scroll{
 		display: none;
 	}
@@ -278,7 +281,8 @@ $btnBeige:#f09d6d;
 	}
 
 	.mosaique{
-		width: 450px;
+		width: 600px  !important;
+		
 	}
 	.slogan{
 		font-size: 36px;
@@ -337,7 +341,7 @@ $btnBeige:#f09d6d;
 
 	.mosaique{
 		width: 500px;
-		transform: translate(-170px,35px);
+		transform: translate(-170px,35px) !important;
 
 	}
 	.meet{
@@ -396,7 +400,7 @@ $btnBeige:#f09d6d;
 		
 		& .mosaique{
 			width: 700px;
-			transform: translate(-225px,25px);
+			transform: translate(-225px,25px) !important;
 		}
 
         &-img{

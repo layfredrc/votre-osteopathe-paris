@@ -168,7 +168,7 @@ export default {
   @media only screen and (max-width: 28em){
     .section-avis{
       /* width: 70vw; */
-      padding-left: 8%;
+      padding-left: 10%;
     }
 
     .instagram{
@@ -187,8 +187,8 @@ export default {
 
     .section-avis{
     
-      margin-left: 80px;
-      padding-left:0px;
+     
+      padding-left:10%;
     }
   }
 
@@ -202,8 +202,8 @@ export default {
 
     .section-avis{
       width: 80vw;
-      margin-left: 100px;
-      padding-left:0px;
+      
+      padding-left:20%;
     }
   }
 
@@ -216,8 +216,8 @@ export default {
 
     .section-avis{
       width: 80vw;
-      margin-left: 160px;
-      padding-left:0px;
+      
+      padding-left:20%;
     }
   }
 </style>

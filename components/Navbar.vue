@@ -149,7 +149,7 @@ header {
 		-ms-grid-columns: 66% auto;
 		grid-template-columns: 66% auto;
 		background: unset;
-        font-size: 15px;
+        font-size: 14.5px;
         & header{
             background: #a4c3b2;
             height: 95px;
@@ -169,7 +169,7 @@ header {
             justify-content: space-between;
             float: right;
 	
-            width: 20em;
+            width: 19em;
             
             & ul li{
                 width: 80px;
@@ -186,7 +186,7 @@ header {
 		color: black;
 		margin-right: auto;
 		width: 200px;
-        font-size: 15px;
+        font-size: 14px;
         
         & span{
             display: inline-block;
@@ -208,7 +208,7 @@ header {
 		-ms-grid-columns: 66% auto;
 		grid-template-columns: 66% auto;
 		background: unset;
-        font-size: 20px;
+        font-size: 19.5px;
         & header{
             background: #a4c3b2;
             height: 105px;
