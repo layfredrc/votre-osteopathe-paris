@@ -51,7 +51,7 @@
 			</div>
 
 			<div class="right">
-				<nuxt-link to="/services#douleurs"><img src="../assets/mosaique.png" alt="mosaique" class="mosaique square-anim"></nuxt-link>
+				<nuxt-link to="/services#douleurs"><img src="../assets/mosaique.png" alt="mosaique" class="mosaique "></nuxt-link>
 				
 			</div>
 		</div>
@@ -243,6 +243,12 @@ $btnBeige:#f09d6d;
             background-color: $btnBeige;
         }
     }
+
+	.mosaique{
+		transform: translate(0px,0px);
+		width: 500px;
+	}
+
 }
 
 @media only screen and (max-width: 28em){
@@ -281,7 +287,7 @@ $btnBeige:#f09d6d;
 	}
 
 	.mosaique{
-		width: 600px  !important;
+		width: 700px !important;
 		
 	}
 	.slogan{
