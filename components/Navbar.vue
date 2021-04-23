@@ -4,15 +4,15 @@
 				<nuxt-link to="/" class="logo"><img src="../assets/PAT LOGO 2 - 230121.png" alt="Logo" /></nuxt-link>
 				<nav>
 					<ul>
-						<li><nuxt-link to="/services" class="hover:underline">Services</nuxt-link></li>
-						<li><nuxt-link to="/services#tarifs" class="hover:underline">Tarifs</nuxt-link></li>
-						<li><nuxt-link to="/patriciachung" class="hover:underline">Votre Osteopathe</nuxt-link></li>
+						<li><nuxt-link to="/services" class="left-anim">Services</nuxt-link></li>
+						<li><nuxt-link to="/services#tarifs" class="left-anim">Tarifs</nuxt-link></li>
+						<li><nuxt-link to="/patriciachung" class="left-anim">Votre Osteopathe</nuxt-link></li>
 						<li>
 							<a
 								href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
 								target="_blank"
                                 rel="noopener"
-								class="hover:underline">Prendre RDV</a
+								class="left-anim">Prendre RDV</a
 							>
 						</li>
 					</ul>

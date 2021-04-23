@@ -9,19 +9,19 @@
       <nav class="mt-4">
         <ul class="space-y-2">
           <li>
-            <nuxt-link to="/" class="font-normal text-base hover:text-gray-100 hover:underline">Accueil</nuxt-link>
+            <nuxt-link to="/" class="font-normal text-base footer-left-anim hover:text-gray-100 ">Accueil</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/services" class="font-normal text-base hover:text-gray-100 hover:underline">Services</nuxt-link>
+            <nuxt-link to="/services" class="font-normal text-base hover:text-gray-100 footer-left-anim">Services</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/services#tarifs" class="font-normal text-base hover:text-gray-100 hover:underline">Tarifs</nuxt-link>
+            <nuxt-link to="/services#tarifs" class="font-normal text-base hover:text-gray-100 footer-left-anim">Tarifs</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/patriciaChung" class="font-normal text-base hover:text-gray-100 hover:underline">Votre ostéopathe</nuxt-link>
+            <nuxt-link to="/patriciaChung" class="font-normal text-base hover:text-gray-100 footer-left-anim">Votre ostéopathe</nuxt-link>
           </li>
           <li>
-            <a href="../brochure.pdf" target="_blank" rel="noopener" class="font-normal text-base hover:text-gray-100 hover:underline">Brochure</a>
+            <a href="../brochure.pdf" target="_blank" rel="noopener" class="font-normal text-base hover:text-gray-100 footer-left-anim">Brochure</a>
           </li>
         </ul>
       </nav>
@@ -37,7 +37,7 @@
              <a target="_blank"
                 rel="noopener"
 			          href="https://www.google.com/maps/dir//48.8407981,2.2565078/@48.840798,2.256508,14z?hl=fr">
-            <address class="not-italic hover:underline">
+            <address class="not-italic footer-left-anim">
               Pôle de Santé Murat,<br>
               89 Boulevard Murat 75016 Paris  
             </address></a> 
@@ -49,7 +49,7 @@
             <svg class="w-6 h-6 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
           </div>
           <div class="flex-1">
-            <a href="mailto:patriciachung.osteo@gmail.com" class="hover:text-gray-100 hover:underline">patriciachung.osteo@gmail.com</a>
+            <a href="mailto:patriciachung.osteo@gmail.com" class="hover:text-gray-100 footer-left-anim">patriciachung.osteo@gmail.com</a>
           </div>
         </div>
         <div class="flex items-start space-x-4">
@@ -59,7 +59,7 @@
             </svg>
           </div>
           <div class="flex-1">
-            <a href="tel:06-16-24-61-44" class="hover:text-gray-100 hover:underline">06 16 24 61 44</a>
+            <a href="tel:06-16-24-61-44" class="hover:text-gray-100 footer-left-anim">06 16 24 61 44</a>
           </div>
         </div>
       </div>
@@ -102,7 +102,7 @@
       </a>
     </div>
     <div class="text-sm mt-4">
-      &copy;2021 Patricia Chung Osteopathe Paris 16. All rights reserved. Made by Frédéric LAY.
+      &copy;2021 Patricia Chung Osteopathe Paris 16. All rights reserved. Made by <a href="https://www.notion.so/Hello-This-is-Fr-d-ric-5b0738de51b740ce9c3fe96d9251a3f1" class="footer-left-anim" target="_blank" rel="noopener">Frédéric LAY.</a>
     </div>
   </div>
 </footer>
@@ -115,7 +115,30 @@ export default {
 </script>
 
 <style>
-    .footerLogo{
-        width: 230px;
-    }
+.footerLogo{
+  width: 230px;
+}
+
+
+.footer-left-anim {
+  position: relative;
+}
+
+.footer-left-anim:before {
+  content: "";
+  position: absolute;
+
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.footer-left-anim:hover:before {
+  visibility: visible;
+  width: 100%;
+}
 </style>

@@ -1,4 +1,3 @@
-
 $navColor: #a4c3b2;
 $meetColor: #ff64cb;
 $cercle: #d8dfd7;
@@ -37,4 +36,26 @@ img {
 section {
   padding: 4em 2em;
   text-align: center;
+}
+
+.left-anim {
+  position: relative;
+}
+
+.left-anim:before {
+  content: "";
+  position: absolute;
+  margin-left: 10%;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.left-anim:hover:before {
+  visibility: visible;
+  width: 80%;
 }
