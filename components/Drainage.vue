@@ -21,7 +21,7 @@
 					<div>
 						<h1 class="drainage-h1" >Drainage <br>Lymphatique</h1>
 						<p class="drainage-p">
-							Ce drainage permet de ‘sécher’ et d’affiner le corps avec des résultats visibles dès la première séance. Il faudra alors compléter cette session par une pratique sportive régulière et une alimentation saine (Coucou “Healthy Body Program” !)
+							Ce drainage permet de ‘sécher’ et d’affiner le corps avec des résultats visibles dès la première séance. Il faudra alors compléter cette session par une pratique sportive régulière et une alimentation saine.
 						</p>
 
                         <div>

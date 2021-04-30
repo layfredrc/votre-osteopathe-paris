@@ -11,12 +11,11 @@
 							Urgence Ostéopathe et Consultation à domicile
 						</p>
 						<p class="skills-desc">
-							<strong>Équilibre, bien-être et performances </strong>du sportif
-							amateur ou professionnel <strong>L’ostéopathe</strong> joue un
-							rôle dans <strong>l’amélioration des performances</strong> en
-							potentialisant l’équilibre global du corps et permet d’<strong
-								>optimiser la récupération post-épreuve.</strong
-							>
+							L’ostéopathie qui s’adapte à votre situation. <br/>
+							Pour les personnes ne pouvant se déplacer, votre ostéopathe peut se déplacer jusqu’à vous avec tout son matériel afin de travailler dans les meilleures conditions possibles. <br>
+							Tout se passera chez vous comme s’il s’agissait d’une séance d’ostéopathie réalisée en cabinet.
+
+							
 						</p>
 					</li>
 					<li class="transition2">
@@ -38,12 +37,7 @@
 						</div>
 						<p class="skill-title">Remise en Forme</p>
 						<p class="skills-desc">
-							<strong>Équilibre, bien-être et performances </strong>du sportif
-							amateur ou professionnel <strong>L’ostéopathe</strong> joue un
-							rôle dans <strong>l’amélioration des performances</strong> en
-							potentialisant l’équilibre global du corps et permet d’<strong
-								>optimiser la récupération post-épreuve.</strong
-							>
+						Spécialisée dans la remise en forme, votre ostéopathe a effectué un double cursus STAPS lui permettant de vous assurer un coaching sportif dans le but de vous aider à atteindre vos objectifs ! Son massage drainant lymphatique de la Méthode Certifiée Renata França en est également le parfait complément.
 						</p>
 					</li>
 					<li class="transition2">
@@ -52,12 +46,7 @@
 						</div>
 						<p class="skill-title">Ostéopathie du Sport</p>
 						<p class="skills-desc">
-							<strong>Équilibre, bien-être et performances </strong>du sportif
-							amateur ou professionnel <strong>L’ostéopathe</strong> joue un
-							rôle dans <strong>l’amélioration des performances</strong> en
-							potentialisant l’équilibre global du corps et permet d’<strong
-								>optimiser la récupération post-épreuve.</strong
-							>
+							Que vous soyez sportif amateur ou averti, les soins manuels de l’ostéopathie vous accompagnent tout au long de vos parcours en favorisant le bon fonctionnement de votre corps.<br>  Ainsi, vos articulations seront plus souples et vos récupérations après effort plus douces. Le cabinet d’ostéopathe à Paris intervient également à titre préventif et à titre curatif pour soigner les blessures.
 						</p>
 					</li>
 

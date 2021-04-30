@@ -6,7 +6,8 @@
 				<div class="mb-8 text-center">
 					<h2 class="mb-2 lg:text-5xl text-3xl w-full font-bold md:text-5xl text-transparent bg-clip-text bg-gradient-to-r from-pale-green to-dark-green ">Des soins adaptés pour tous</h2>
 					<p class="text-xs lg:text-lg md:text-lg xl:text-lg text-gray-700 font-light">
-						These components are things you'll have to build in this project
+						Par des manipulations douces, l’ostéopathe potentialise la mobilité du corps afin qu’il retrouve son équilibre physiologique.
+
 					</p>
 				</div>
 			</div>

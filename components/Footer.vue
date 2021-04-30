@@ -69,7 +69,7 @@
       <div class="space-y-8 mt-4">
           <div class="flex-1">
             <strong>Lundi - Samedi.</strong>
-            <p class="font-semibold block mt-2 text-sm text-gray-400">9h - 19h</p>
+            <p class="font-semibold block mt-2 text-sm text-gray-400">9h - 20h</p>
           </div>
          
           <div class="flex-1">

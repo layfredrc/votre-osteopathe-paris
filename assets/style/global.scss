@@ -59,3 +59,22 @@ section {
   visibility: visible;
   width: 80%;
 }
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2d4d44;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #2d4d44;
+  border-radius: 50px;
+  border: transparent;
+}

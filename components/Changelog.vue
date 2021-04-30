@@ -4,7 +4,7 @@
             <header class="border-t border-b border-gray-200 px-6 lg:px-8 py-32 xl:pt-10">
             <div class="max-w-screen-lg mx-auto  lg:mx-32 font-semibold">
                 <h1 class="text-3xl lg:text-5xl font-bold text-gray-800 text-left">Mon parcours</h1>
-                <p class="text-base md:text-lg text-gray-500 mt-4">News updates and improvements to windlog</p>
+         
                 <nav class="flex space-x-4 lg:space-x-6 ">
                
                 </nav>
@@ -18,11 +18,11 @@
                 <div class="md:border-r h-full relative pb-4 md:pb-0 md:pt-2">
                     <div class="md:text-right md:pr-10">
                     <span
-                        class="font-bold inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
-                        Expériences
+                        class="font-bold text-gray-700 inline-block pt-1 pl-2 border-l-4 border-pale-green md:border-l-0 md:pl-0">
+                        Expériences professionnelles
                     </span>
                     <span
-                        class="h-8 w-8 rounded-full bg-purple-500 text-purple-50 hidden md:inline-flex items-center justify-center md:absolute md:-right-4 md:ml-6">
+                        class="h-8 w-8 rounded-full bg-pale-green text-pale-green hidden md:inline-flex items-center justify-center md:absolute md:-right-4 md:ml-6">
                         <svg class="w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="white">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -35,19 +35,60 @@
                 <div class="md:col-span-3 border-b pb-8 mb-12">
                     <div class="prose md:prose-lg space-y-4">
                         <img src="../assets/suposteo.jpg" alt="Placeholder image" class="rounded-lg mb-12">
+
+                        
+
                         <h2>Après 5 années d’étude au sein de l’École Supérieure d’Ostéopathie, elle a effectué un double cursus STAPS qui lui a permis d’obtenir un second diplôme dans le monde du sport. </h2>
                         <p>Au travers de ces études, Patricia a pu exercer en tant que praticienne ostéopathe au sein de différentes structures. Ces expériences lui ont permis d’acquérir une polyvalence dans ses prises en charge et de proposer la meilleure solution adaptée à chaque demande.</p>
 
                         <p>Prise en charge des patients à la clinique de L’École Supérieure d’Ostéopathie</p>
 
-                        <p>Suivi et prise en charge dans différents hôpitaux (Centre Hospitalier Intercommunale de Créteil, Hôpital de Tenon, Clinique de Vauban, Centre de Réadaptation de Coubert)</p>
-
-                        <p>Bénévole ostéopathe au sein de l’Union Nationale des Enfants Handicapés Espoir Ostéopathique (UNEHEO)</p>
-                        <p>Stagiaire préparatrice physique au FC Saint-Vrain</p>
-                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Nanteuil-Les-Meaux </p>
-                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 13</p>
-                        <p>Praticienne ostéopathe au sein d’un cabinet d’ostéopathie à Paris 16 </p>
                     </div>
+
+
+                    <div class="mt-10 space-y-10">
+                        
+                        <div class="bg-white rounded-xl shadow-2xl md:flex">
+                            <img src="https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-lg md:rounded-t-none">
+                            <div class="p-6">
+                            <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Expérience en Hôpital</h2>
+                            <p class="text-dark-green">Suivi et prise en charge dans différents hôpitaux (Centre Hospitalier Intercommunale de Créteil, Hôpital de Tenon, Clinique de Vauban, Centre de Réadaptation de Coubert)</p>
+                            </div>
+
+                        </div>
+                        
+                        <div class="bg-white rounded-xl shadow-2xl md:flex">
+                            <img src="../assets/uneheo.png" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-lg md:rounded-t-none">
+                            <div class="p-6">
+                            <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Bénévolat pour l'UNEHEO</h2>
+                            <p class="text-dark-green">Bénévole ostéopathe au sein de l’Union Nationale des Enfants Handicapés Espoir Ostéopathique (UNEHEO)</p>
+                            </div>
+
+                        </div>
+
+
+                         <div class="bg-white rounded-xl shadow-2xl md:flex">
+                            <img src="../assets/fc-sain-vrain.png" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-lg md:rounded-t-none">
+                            <div class="p-6">
+                            <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Préparatrice physique</h2>
+                            <p class="text-dark-green">Stagiaire préparatrice physique au FC Saint-Vrain</p>
+                            </div>
+
+                        </div>
+                         <div class="bg-white rounded-xl shadow-2xl md:flex">
+                            <img src="../assets/gal-5.jpeg" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-lg md:rounded-t-none">
+                            <div class="p-6">
+                            <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Practicienne ostéopathe</h2>
+                            <p class="text-dark-green">Cabinet d’ostéopathie à Nanteuil-Les-Meaux</p>
+                            <p class="text-dark-green">Cabinet d’ostéopathie à Paris 13</p>
+                            <p class="text-dark-green">Cabinet d’ostéopathie à Paris 16</p>
+                            </div>
+
+                        </div>
+                       
+                    </div>
+
+                    
                 </div>
             </div>
 
@@ -56,11 +97,11 @@
                 <div class="md:border-r h-full relative pb-4 md:pb-0 md:pt-2">
                     <div class="md:text-right md:pr-10">
                     <span
-                        class="font-bold inline-block pt-1 pl-2 border-l-4 border-purple-600 md:border-l-0 md:pl-0">
+                        class="font-bold text-gray-700 inline-block pt-1 pl-2 border-l-4 border-pale-green md:border-l-0 md:pl-0">
                         Formation ostéopathiques post-graduées
                     </span>
                     <span
-                        class="h-8 w-8 rounded-full bg-purple-500 text-purple-500 hidden md:inline-flex items-center justify-center md:absolute md:-right-4  md:ml-6">
+                        class="h-8 w-8 rounded-full bg-pale-green text-dark-green-500 hidden md:inline-flex items-center justify-center md:absolute md:-right-4  md:ml-6">
                         <svg class="w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="white" >
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -70,11 +111,29 @@
                     </div>
                 </div>
                 </div>
-                <div class="md:col-span-3 border-b pb-8 mb-12">
-                <div class="prose md:prose-lg">
-                    <img src="../assets/sportif.svg" alt="Placeholder image" class="rounded-lg mb-12">
-                    <h2>Massage drainant lymphatique de la méthode certifiée Renata França</h2>
-                    <h2>OstéoBébé - M. Eric Simon & Mme Dany Heintz-Blondy</h2>
+                <div class="md:col-span-3 border-b pb-8 mb-12 ">
+                <div class="prose md:prose-lg space-y-16">
+                    <div class="bg-white rounded-xl shadow-2xl md:flex">
+                            <img src="../assets/massage.jpeg" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-lg md:rounded-t-none">
+                            <div class="p-6">
+                            <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">Massage drainant lymphatique de la méthode certifiée Renata França</h2>
+                            <p class="text-dark-green">Ce drainage permet de ‘sécher’ et d’affiner le corps avec des résultats visibles dès la première séance. Il faudra alors compléter cette session par une pratique sportive régulière et une alimentation saine.</p>
+                         
+                            </div>
+
+                    </div>
+
+                         <div class="bg-white rounded-xl shadow-2xl md:flex">
+                            <img src="../assets/gal-3.jpeg" alt="Night Sky" class="md:w-1/3 md:rounded-l-lg rounded-t-lg md:rounded-t-none">
+                            <div class="p-6">
+                            <h2 class="font-bold text-xl md:text-3xl mb-2 text-dark-green">OstéoBébé - M. Eric Simon & Mme Dany Heintz-Blondy</h2>
+                            <p class="text-dark-green">Fondé sur la Tradition, cet enseignement permet de gérer efficacement les traitements des bébés et des enfants tant des points de vue physique, émotionnel que chimique et énergétique.</p>
+                         
+                        </div>
+
+                    </div>
+             
+
                 </div>
                 </div>
             </div>
