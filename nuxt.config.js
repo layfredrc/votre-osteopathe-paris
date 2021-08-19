@@ -89,9 +89,21 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    'nuxt-lazysizes',
+
+
     // 'nuxt-purgecss',
 
   ],
+  lazySizes: {
+    extendAssetUrls: {
+      img: ['src', 'srcset', 'data-src', 'data-srcset'],
+      source: ['src', 'srcset', 'data-src', 'data-srcset'],
+
+      // Example for a custom component
+      AppImage: ['source-md-url', 'image-url'],
+    },
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
