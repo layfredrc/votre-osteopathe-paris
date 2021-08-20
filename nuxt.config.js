@@ -18,7 +18,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@400;500;700&display=swap' },
-      { hid: 'canonical', rel: 'canonical', href: 'https://votreosteopatheparis16.netlify.app' },
+      { hid: 'canonical', rel: 'canonical', href: 'https://votreosteopatheparis16.netlify.app/' },
       {
         hid: 'twitter:card',
         name: 'twitter:card',

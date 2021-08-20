@@ -30,7 +30,7 @@ export default {
       {
         hid: "canonical",
         rel: "canonical",
-        href: "https://votreosteopatheparis16.netlify.app/patriciachung"
+        href: "https://votreosteopatheparis16.netlify.app/patriciachung/"
       },
       {
         hid: "twitter:card",
@@ -71,7 +71,7 @@ export default {
       {
         hid: "og:url",
         name: "og:url",
-        content: "https://votreosteopatheparis16.netlify.app/"
+        content: "https://votreosteopatheparis16.netlify.app/patriciachung"
       },
       {
         hid: "og:title",
