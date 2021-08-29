@@ -68,7 +68,7 @@ export default {
         hid: "keywords",
         name: "keywords",
         content:
-          "osteopathe, paris, paris 16eme, 16, douleurs, torticolis, blocages articulaires, entorse, sciatique, lumbago,"
+          "osteopathe, paris, paris 16eme, Patricia Chung, 16, douleurs, torticolis, blocages articulaires, entorse, sciatique, lumbago,"
       },
       { hid: "og:type", name: "og:type", content: "website" },
       {

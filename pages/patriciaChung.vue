@@ -65,7 +65,7 @@ export default {
         hid: "keywords",
         name: "keywords",
         content:
-          "osteopathe, paris, paris 16eme, 16, douleurs, drainage lymphatique, femme enceinte, nourisson, sportifs, nutrition, urgence, soins, cabinet"
+          "osteopathe, paris, paris 16eme, 16, Patricia Chung, douleur, drainage lymphatique, femme enceinte, nourrisson, sportifs, nutrition, urgence, soins, torticolis, dos, cou, épaules, meilleur, osteopathie, consultation, domicile, migraine,tendinite, remboursé, prix, temps, kinésithérapeute, docteur, rendez-vous,"
       },
       { hid: "og:type", name: "og:type", content: "website" },
       {
