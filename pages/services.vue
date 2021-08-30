@@ -33,7 +33,7 @@ export default {
       {
         hid: "canonical",
         rel: "canonical",
-        href: "https://votreosteopatheparis16.netlify.app/services/"
+        href: "https://votreosteopatheparis16.com/services/"
       },
       {
         hid: "twitter:card",
@@ -74,7 +74,7 @@ export default {
       {
         hid: "og:url",
         name: "og:url",
-        content: "https://votreosteopatheparis16.netlify.app/services/"
+        content: "https://votreosteopatheparis16.com/services/"
       },
       {
         hid: "og:title",
@@ -96,7 +96,7 @@ export default {
       {
         hid: "og:image",
         name: "og:image",
-        content: "https://votreosteopatheparis16.netlify.app/favicon.ico"
+        content: "https://votreosteopatheparis16.com/favicon.ico"
       },
       {
         hid: "og:image:alt",
