@@ -91,13 +91,6 @@ export default {
       "-=1.5"
     );
 
-    gsap.from(".square-anim", {
-      stagger: 0.5,
-      scale: 0.1,
-      duration: 2,
-      ease: Back.easeOut.config(1.7)
-    });
-
     gsap.from(".transition1", {
       scrollTrigger: {
         trigger: ".transition1",

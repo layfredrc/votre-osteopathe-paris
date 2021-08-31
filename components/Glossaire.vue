@@ -139,7 +139,7 @@
             <div
               class="relative flex justify-between p-4 border-b border-gray-700"
             >
-              <h3 class="font-bold text-lg">How to Use Tailwind</h3>
+              <h3 class="font-bold text-lg">Rééducation et Ostéopathie</h3>
               <div class="flex space-x-2">
                 <div class="w-3 h-3 bg-red-500 rounded-full"></div>
                 <div class="w-3 h-3 bg-yellow-500 rounded-full"></div>
@@ -147,8 +147,12 @@
               </div>
             </div>
             <p class="p-4">
-              We'll dive into the most important classes of Tailwind and using
-              them a TON
+              L'ostéopathe n'est pas l'intervenant principal dans le cadre d'une
+              rééducation mais il peut vérifier de manière locale les
+              articulations pour lever les tensions et les blocages qui peuvent
+              venir freiner la rééducation. Ceci permet une récupération plus
+              rapide et complète. Cette intervention est optimale en début de
+              rééducation.
             </p>
           </div>
         </div>
