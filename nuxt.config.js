@@ -12,7 +12,7 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
-        hid: 'description', name: 'description', content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+        hid: 'description', name: 'description', content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris.  "
       }
     ],
     link: [
@@ -27,32 +27,32 @@ export default {
       {
         hid: 'twitter:site',
         name: 'twitter:site',
-        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
+        content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris.",
       },
       {
         hid: 'twitter:creator',
         name: 'twitter:creator',
-        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
+        content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris. ",
       },
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
+        content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris. ",
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
+        content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris. ",
       },
       { hid: 'keywords', name: 'keywords', content: "osteopathe, paris, paris 16eme, 16, douleur, drainage lymphatique, femme enceinte, nourrisson, sportifs, nutrition, urgence, soins, torticolis, dos, cou, épaules, meilleur, osteopathie, consultation, domicile, migraine,tendinite, remboursé, prix, temps, kinésithérapeute, docteur, rendez-vous," },
       { hid: 'og:type', name: 'og:type', content: 'website' },
       { hid: 'og:url', name: 'og:url', content: 'https://votreosteopatheparis16.com/' },
-      { hid: 'og:title', name: 'og:title', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
-      { hid: 'og:site_name', name: 'og:site_name', content: 'Votre Ostéopathe Paris 16ème | Patricia Chung' },
+      { hid: 'og:title', name: 'og:title', content: 'Ostéopathe Paris 16eme et Drainage Lymphatique | Patricia Chung' },
+      { hid: 'og:site_name', name: 'og:site_name', content: 'Ostéopathe Paris 16eme et Drainage Lymphatique | Patricia Chung' },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme.",
+        content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris. ",
       },
       { hid: 'og:locale', name: 'og:locale', content: 'fr' },
       { hid: 'og:image', name: 'og:image', content: 'https://votreosteopatheparis16.com/favicon.ico' },
@@ -64,7 +64,6 @@ export default {
       { hid: 'google-site-verification', name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN },
     ],
     script: [
-
       { hid: 'gsap', src: "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js", defer: true },
       { hid: 'scrollTrigger', src: "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js", defer: true }
     ],
