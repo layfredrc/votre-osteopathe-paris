@@ -30,7 +30,7 @@ export default {
       {
         hid: "canonical",
         rel: "canonical",
-        href: "https://votreosteopatheparis16.com/patriciachung/"
+        href: "https://www.votreosteopatheparis16.com/patriciachung/"
       },
       {
         hid: "twitter:card",
@@ -61,17 +61,12 @@ export default {
         content:
           "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
       },
-      {
-        hid: "keywords",
-        name: "keywords",
-        content:
-          "osteopathe, paris, paris 16eme, 16, Patricia Chung, douleur, drainage lymphatique, femme enceinte, nourrisson, sportifs, nutrition, urgence, soins, torticolis, dos, cou, épaules, meilleur, osteopathie, consultation, domicile, migraine,tendinite, remboursé, prix, temps, kinésithérapeute, docteur, rendez-vous,"
-      },
+
       { hid: "og:type", name: "og:type", content: "website" },
       {
         hid: "og:url",
         name: "og:url",
-        content: "https://votreosteopatheparis16.com/patriciachung"
+        content: "https://www.votreosteopatheparis16.com/patriciachung"
       },
       {
         hid: "og:title",

@@ -1,12 +1,12 @@
 <template>
   <!-- horizontal card -->
   <div class="p-8 md:p-4 lg:p-12 bg-pale-green transition5 " id="sport">
-    <h1
+    <h2
       class="subtitle  slogan text-gradient text-center mb-12"
       style="font-size: 30px; "
     >
       Votre remise en forme
-    </h1>
+    </h2>
 
     <div
       class="visible md:invisible lg:invisible xl:invisible bg-white rounded-3xl shadow-2xl md:flex mt-8 w-full little-card"

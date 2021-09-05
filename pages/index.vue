@@ -6,12 +6,12 @@
     <Featured />
     <Skills />
     <Partenaires />
-    <LazyDrainage />
-    <LazySport />
+    <Drainage />
+    <Sport />
 
-    <LazyGallery />
-    <LazyGoogleReviews />
-    <LazyInstagramFeed />
+    <Gallery />
+    <GoogleReviews />
+    <InstagramFeed />
 
     <Footer />
   </div>

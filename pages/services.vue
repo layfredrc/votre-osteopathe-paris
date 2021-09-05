@@ -24,7 +24,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+          "L’ostéopathie pour prendre soin de vous. Les zones principalement touchées sont le plus souvent le cou et le dos, d’une manière générale les articulations et diverses douleurs mécaniques."
       }
     ],
     link: [
@@ -33,7 +33,7 @@ export default {
       {
         hid: "canonical",
         rel: "canonical",
-        href: "https://votreosteopatheparis16.com/services/"
+        href: "https://www.votreosteopatheparis16.com/services/"
       },
       {
         hid: "twitter:card",
@@ -44,37 +44,32 @@ export default {
         hid: "twitter:site",
         name: "twitter:site",
         content:
-          "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+          "L’ostéopathie pour prendre soin de vous. Les zones principalement touchées sont le plus souvent le cou et le dos, d’une manière générale les articulations et diverses douleurs mécaniques."
       },
       {
         hid: "twitter:creator",
         name: "twitter:creator",
         content:
-          "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+          "L’ostéopathie pour prendre soin de vous. Les zones principalement touchées sont le plus souvent le cou et le dos, d’une manière générale les articulations et diverses douleurs mécaniques."
       },
       {
         hid: "twitter:title",
         name: "twitter:title",
         content:
-          "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+          "L’ostéopathie pour prendre soin de vous. Les zones principalement touchées sont le plus souvent le cou et le dos, d’une manière générale les articulations et diverses douleurs mécaniques."
       },
       {
         hid: "twitter:description",
         name: "twitter:description",
         content:
-          "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+          "L’ostéopathie pour prendre soin de vous. Les zones principalement touchées sont le plus souvent le cou et le dos, d’une manière générale les articulations et diverses douleurs mécaniques."
       },
-      {
-        hid: "keywords",
-        name: "keywords",
-        content:
-          "osteopathe, paris, paris 16eme, Patricia Chung, 16, douleurs, torticolis, blocages articulaires, entorse, sciatique, lumbago,"
-      },
+
       { hid: "og:type", name: "og:type", content: "website" },
       {
         hid: "og:url",
         name: "og:url",
-        content: "https://votreosteopatheparis16.com/services/"
+        content: "https://www.votreosteopatheparis16.com/services/"
       },
       {
         hid: "og:title",
@@ -90,7 +85,7 @@ export default {
         hid: "og:description",
         property: "og:description",
         content:
-          "Ostéopathe agréée, Patricia Chung vous accueille au sein du Pôle de Santé Murat situé dans le 16e arrondissement de Paris.Elle accueille tous types de patients du nourrisson, enfant, adulte, à la personne âgée, la femme enceinte et le sportif. Son approche thérapeutique vise à répondre aux besoins spécifiques des patients, en personnalisant chaque traitement afin d'obtenir un résultat efficace sur le long terme. Egalement spécialisée dans le drainage lymphatique, la nutrition et le coaching sportif l'accompagnement offert par Patricia Chung est un réel boost pour votre bien-être."
+          "L’ostéopathie pour prendre soin de vous. Les zones principalement touchées sont le plus souvent le cou et le dos, d’une manière générale les articulations et diverses douleurs mécaniques."
       },
       { hid: "og:locale", name: "og:locale", content: "fr" },
       {

@@ -1,10 +1,10 @@
 <template>
   <section class="section-cabinet" id="section4">
-    <h1
+    <h2
       class="heading-secondary u-center-text text-gradient u-margin-top-small mb-8"
     >
       Votre Cabinet
-    </h1>
+    </h2>
 
     <div class="gallery">
       <figure class="gallery__item gallery__item--1">

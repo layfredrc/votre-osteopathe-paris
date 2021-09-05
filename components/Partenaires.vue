@@ -1,8 +1,8 @@
 <template>
   <section class="partenaires">
-    <h1 class=" subtitle slogan text-gradient" style="font-size: 28px;">
+    <h2 class=" subtitle slogan text-gradient" style="font-size: 28px;">
       En partenariat avec
-    </h1>
+    </h2>
     <div class="partenaire-container transition3">
       <img data-src="../assets/aqualoft1.svg" alt="aqualoft" class="lazyload" />
       <img

@@ -106,7 +106,7 @@
               class="pt-6 pb-4 lg:pb-0 w-4/5 lg:w-full mx-auto flex flex-wrap items-center justify-evenly"
             >
               <a
-                class="bg-gradient-to-br from-pale-green to-dark-green hover:from-dark-green hover:to-pale-green text-white font-bold py-2 px-4 rounded-full"
+                class="bg-gradient-to-br from-pale-green to-dark-green hover:from-dark-green hover:to-pale-green text-white font-bold py-2 px-4 rounded-full  "
                 href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
                 target="_blank"
                 rel="noopener"

@@ -1,5 +1,5 @@
 <template>
-  <div class="hero">
+  <main class="hero">
     <div class="content">
       <h1 class="stagger1 slogan">
         Votre Ostéopathe<br />
@@ -60,7 +60,7 @@
           class="mosaique lazyload"
       /></nuxt-link>
     </div>
-  </div>
+  </main>
 </template>
 
 <script>

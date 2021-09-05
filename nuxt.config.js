@@ -18,7 +18,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@400;500;700&display=swap' },
-      { hid: 'canonical', rel: 'canonical', href: 'https://votreosteopatheparis16.com/' },
+      { hid: 'canonical', rel: 'canonical', href: 'https://www.votreosteopatheparis16.com/' },
       {
         hid: 'twitter:card',
         name: 'twitter:card',
@@ -44,9 +44,9 @@ export default {
         name: 'twitter:description',
         content: "Patricia Chung - Ostéopathe Paris 16 et Drainage Lymphatique Renata França à Porte de Saint-Cloud. Ostéopathe à Paris. ",
       },
-      { hid: 'keywords', name: 'keywords', content: "osteopathe, paris, paris 16eme, 16, douleur, drainage lymphatique, femme enceinte, nourrisson, sportifs, nutrition, urgence, soins, torticolis, dos, cou, épaules, meilleur, osteopathie, consultation, domicile, migraine,tendinite, remboursé, prix, temps, kinésithérapeute, docteur, rendez-vous," },
+
       { hid: 'og:type', name: 'og:type', content: 'website' },
-      { hid: 'og:url', name: 'og:url', content: 'https://votreosteopatheparis16.com/' },
+      { hid: 'og:url', name: 'og:url', content: 'https://www.votreosteopatheparis16.com/' },
       { hid: 'og:title', name: 'og:title', content: 'Ostéopathe Paris 16eme et Drainage Lymphatique | Patricia Chung' },
       { hid: 'og:site_name', name: 'og:site_name', content: 'Ostéopathe Paris 16eme et Drainage Lymphatique | Patricia Chung' },
       {

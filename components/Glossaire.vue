@@ -5,11 +5,11 @@
       <div class="container mx-auto px-6">
         <!-- header  -->
         <div class="relative">
-          <h2
+          <h1
             class="mb-32 font-bold lg:text-5xl text-4xl text-dark-green text-center"
           >
             Votre Ostéopathe apaisera vos douleurs
-          </h2>
+          </h1>
 
           <div
             class="absolute h-2 w-1/3 top-0 left-0 bg-gradient-to-r from-pale-green to-dark-green transform -translate-y-8"

@@ -1,7 +1,7 @@
 <template>
   <section class="skills">
     <div class="skills-container">
-      <h1 class="slogan2">Des soins adaptés pour tous</h1>
+      <h2 class="slogan2">Des soins adaptés pour tous</h2>
       <ul>
         <li class="transition2">
           <div class="icon-container one">

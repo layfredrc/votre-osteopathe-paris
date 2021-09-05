@@ -9,7 +9,7 @@
 
       <div class="drainage-card">
         <div>
-          <h1 class="drainage-h1">Massage Drainant</h1>
+          <h2 class="drainage-h1">Massage Drainant</h2>
           <p class="drainage-p">
             Vous souffrez de rétention d’eau ? Les oedèmes, la mauvaise
             circulation sanguine ou encore la cellulite sont votre quotidien ?

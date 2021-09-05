@@ -2,7 +2,7 @@
   <section class="featured" id="accessibility">
     <div class="left">
       <div class="inner transition1">
-        <h1 class="subtitle">Accessibilité</h1>
+        <h2 class="subtitle">Accessibilité</h2>
         <h3 class="featured-title">
           Pôle de Santé Murat, <br />89 Boulevard Murat 75016 Paris
         </h3>

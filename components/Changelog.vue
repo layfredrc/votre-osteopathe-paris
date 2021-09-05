@@ -5,9 +5,9 @@
         class="border-t border-b border-gray-200 px-6 lg:px-8 py-32 xl:pt-10"
       >
         <div class="max-w-screen-lg mx-auto  lg:mx-32 font-semibold">
-          <h1 class="text-3xl lg:text-5xl font-bold text-gray-800 text-left">
+          <h2 class="text-3xl lg:text-5xl font-bold text-gray-800 text-left">
             Mon parcours
-          </h1>
+          </h2>
 
           <nav class="flex space-x-4 lg:space-x-6 "></nav>
         </div>
