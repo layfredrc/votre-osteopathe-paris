@@ -2,10 +2,7 @@
   <div class="nav-container">
     <header>
       <nuxt-link to="/" class="logo"
-        ><img
-          data-src="../assets/PAT LOGO 2 - 230121.png"
-          alt="Logo"
-          class="lazyload"
+        ><img src="../assets/PAT LOGO 2 - 230121.png" alt="Logo" class=""
       /></nuxt-link>
       <nav>
         <ul>
@@ -40,9 +37,9 @@
         <li class="num">
           <a href="tel:06-16-24-61-44"
             ><img
-              data-src="https://img.icons8.com/ios/48/000000/outgoing-call.png"
+              src="https://img.icons8.com/ios/48/000000/outgoing-call.png"
               alt="06 16 24 61 44"
-              class="tel-icon lazyload"
+              class="tel-icon "
             /><span class="">06 16 24 61 44</span></a
           >
         </li>
@@ -53,9 +50,9 @@
             rel="noopener"
             href="https://www.doctolib.fr/osteopathe/paris/patricia-chung"
             ><img
-              data-src="../assets/icone-doctolib.png"
+              src="../assets/icone-doctolib.png"
               alt="doctolib patricia chung"
-              class="lazyload"
+              class=""
           /></a>
         </li>
 
@@ -65,9 +62,9 @@
             rel="noopener"
             href="https://www.facebook.com/osteopatheportedesaintcloud"
             ><img
-              data-src="../assets/icons8-facebook-48.png"
+              src="../assets/icons8-facebook-48.png"
               alt="facebook"
-              class="lazyload"
+              class=""
             />
             /></a
           >
@@ -77,12 +74,7 @@
             target="_blank"
             rel="noopener"
             href="https://www.instagram.com/osteopathe.paris16/"
-            ><img
-              data-src="../assets/icon-ig.png"
-              alt="instagram"
-              class="lazyload"
-            />
-            /></a
+            ><img src="../assets/icon-ig.png" alt="instagram" class="" /> /></a
           >
         </li>
         <li class="fb">
@@ -91,9 +83,9 @@
             rel="noopener"
             href="https://www.google.com/maps/dir//48.8407981,2.2565078/@48.840798,2.256508,14z?hl=fr"
             ><img
-              data-src="../assets/icon-google-maps.png"
+              src="../assets/icon-google-maps.png"
               alt="google maps"
-              class="lazyload"
+              class=""
           /></a>
         </li>
       </ul>

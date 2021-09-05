@@ -54,10 +54,7 @@
 
     <div class="right">
       <nuxt-link to="/services#douleurs"
-        ><img
-          data-src="../assets/mosaique.png"
-          alt="mosaique"
-          class="mosaique lazyload"
+        ><img src="../assets/mosaique.png" alt="mosaique" class="mosaique"
       /></nuxt-link>
     </div>
   </main>
