@@ -4,14 +4,14 @@
     <Navigation />
     <Hero />
     <Featured />
-    <Skills />
-    <Partenaires />
-    <Drainage />
-    <Sport />
+    <LazySkills />
+    <LazyPartenaires />
+    <LazyDrainage />
+    <LazySport />
 
-    <Gallery />
-    <GoogleReviews />
-    <InstagramFeed />
+    <LazyGallery />
+    <LazyGoogleReviews />
+    <LazyInstagramFeed />
 
     <Footer />
   </div>
@@ -68,83 +68,6 @@ export default {
       },
       false
     );
-
-    gsap.registerPlugin(ScrollTrigger);
-    var tl = gsap.timeline();
-
-    tl.from(".content", {
-      y: "-30%",
-      opacity: 0,
-      duration: 1.5,
-      ease: Power3.easeOut
-    });
-
-    tl.from(
-      ".stagger1",
-      {
-        opacity: 0,
-        y: -50,
-        stagger: 0.3,
-        duration: 2,
-        ease: Power4.easeOut
-      },
-      "-=1.5"
-    );
-
-    gsap.from(".transition1", {
-      scrollTrigger: {
-        trigger: ".transition1",
-        start: "top center"
-      },
-      y: 50,
-      opacity: 0,
-      stagger: 0.3,
-      duration: 1.2
-    });
-
-    gsap.from(".transition2", {
-      scrollTrigger: {
-        trigger: ".transition2",
-        start: "top center"
-      },
-      y: 50,
-      opacity: 0,
-      stagger: 0.3,
-      duration: 1.2
-    });
-
-    gsap.from(".transition3", {
-      scrollTrigger: {
-        trigger: ".transition3",
-        start: "top center"
-      },
-      y: 50,
-      opacity: 0,
-      stagger: 0.6,
-      duration: 1.2
-    });
-
-    gsap.from(".transition4", {
-      scrollTrigger: {
-        trigger: ".transition4",
-        start: "top center"
-      },
-      y: 50,
-      opacity: 0,
-      stagger: 0.6,
-      duration: 1.2
-    });
-
-    gsap.from(".transition5", {
-      scrollTrigger: {
-        trigger: ".transition5",
-        start: "top center"
-      },
-      y: 50,
-      opacity: 0,
-      stagger: 0.3,
-      duration: 1.2
-    });
   }
 };
 </script>
