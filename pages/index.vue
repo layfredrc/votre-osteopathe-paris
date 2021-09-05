@@ -4,12 +4,12 @@
     <Navigation />
     <Hero />
     <Featured />
-    <LazySkills />
-    <LazyPartenaires />
-    <LazyDrainage />
-    <LazySport />
+    <Skills />
+    <Partenaires />
+    <Drainage />
+    <Sport />
 
-    <LazyGallery />
+    <Gallery />
     <LazyGoogleReviews />
     <LazyInstagramFeed />
 

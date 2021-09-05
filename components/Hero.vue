@@ -243,6 +243,7 @@ $btnBeige: #f09d6d;
   .mosaique {
     transform: translate(0px, 0px);
     width: 500px;
+    height: 100%;
   }
 }
 
@@ -253,6 +254,7 @@ $btnBeige: #f09d6d;
 
   .mosaique {
     transform: translate(0px, 0px);
+    height: 100%;
   }
 
   .scroll {
@@ -280,6 +282,7 @@ $btnBeige: #f09d6d;
 
   .mosaique {
     width: 700px !important;
+    height: 100%;
   }
   .slogan {
     font-size: 36px;
@@ -333,7 +336,8 @@ $btnBeige: #f09d6d;
   }
 
   .mosaique {
-    width: 500px;
+    width: 700px !important;
+    height: 75%;
     transform: translate(-170px, 35px) !important;
   }
   .meet {
@@ -390,7 +394,8 @@ $btnBeige: #f09d6d;
     }
 
     & .mosaique {
-      width: 700px;
+      width: 900px !important;
+      height: 90%;
       transform: translate(-225px, 25px) !important;
     }
 

@@ -83,12 +83,14 @@ export default {};
 
   & .metro {
     width: 50px;
-    transform: translate(45px, 60px);
+    height: 100%;
+    transform: translate(20px, 60px);
   }
 
   & .rer {
     width: 50px;
-    transform: translate(45px, 60px);
+    height: 50%;
+    transform: translate(20px, 55px);
   }
 
   & .caption {
