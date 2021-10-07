@@ -29,11 +29,11 @@
           </div>
           <p class="skill-title">Ostéopathie pour tous</p>
           <p class="skills-desc">
-            Mal de dos ? Prothèse douloureux ? Arthrose ? Troubles digestifs ?
-            Mobilité, soutien, équilibre, santé et bien-être du sénior Par de
-            manipulations douces, l’ostéopathe accompagne le sénior et lui
-            permet de maintenir la mobilité de ses articulations, de favoriser
-            son bien-être global et ainsi maintenir son autonomie.
+            Mal de dos ? Torticolis ? Prothèse douloureuse ? Arthrose ? Troubles
+            digestifs ? Accouchement difficile ? Que vous soyez petit ou grand,
+            votre ostéopathe à Paris 16 vous accompagne par des techniques et
+            manipulations douces afin d’améliorer la mobilité de votre corps, de
+            favoriser votre bien-être global et votre autonomie.
           </p>
         </li>
         <li class="transition2">
@@ -66,10 +66,10 @@
             Que vous soyez sportif amateur ou averti, les soins manuels de
             l’ostéopathie vous accompagnent tout au long de vos parcours en
             favorisant le bon fonctionnement de votre corps.<br />
-            Ainsi, vos articulations seront plus souples et vos récupérations
-            après effort plus douces. Le cabinet d’ostéopathe à Paris intervient
-            également à titre préventif et à titre curatif pour soigner les
-            blessures.
+            Ainsi, vos articulations seront plus libres et vos récupérations
+            après effort plus douces. Le cabinet d’ostéopathie à Paris
+            intervient également à titre préventif et à titre curatif pour
+            soigner les blessures.
           </p>
         </li>
 
@@ -83,15 +83,11 @@
           </div>
           <p class="skill-title">Ostéopathie de la femme enceinte</p>
           <p class="skills-desc">
-            <strong>Votre ostéopathe</strong>
-            peut agir positivement sur strong les souffrances de la maman et du
-            bébé en gestation. Douleurs
-            <strong>lombaires </strong>
-            , douleurs
-            <strong>pelviennes , pubalgies, sciatiques, </strong>
-            maux de tête,changements
-            <strong>comportementaux,</strong> problèmes de circulation sanguine,
-            <strong>troubles digestifs</strong>
+            Votre ostéopathe peut agir positivement sur strong les souffrances
+            de la maman et du bébé en gestation. Douleurs lombaires , douleurs
+            pelviennes , pubalgies, sciatiques, maux de tête, changements
+            comportementaux, problèmes de circulation sanguine, troubles
+            digestifs, nausées, vomissements.
           </p>
         </li>
 
@@ -105,16 +101,14 @@
           </div>
           <p class="skill-title">Ostéopathie pédiatrique</p>
           <p class="skills-desc">
-            Votre nourrisson <strong>pleure</strong> et paraît
-            <strong>inconsolable</strong> ? Son sommeil est fortement
-            <strong>perturbé ?</strong> Il manifeste des
-            <strong>trouble du comportement ?</strong>
-            <br />
+            Votre nourrisson pleure et paraît inconsolable ? Son sommeil est
+            fortement perturbé ? Il manifeste des trouble du comportement ?
 
-            Il <strong>régurgite</strong> systématiquement après la tétée ? Il
-            se tord de douleurs en raison d’une <strong>colique</strong> ou
-            d’une <strong>constipation </strong>
-            ? Il se cambre en arrière ?
+            <br />
+            Il régurgite systématiquement après la tétée ? Il se tord de
+            douleurs en raison d’une colique ou d’une constipation ? Il se
+            cambre en arrière ? Il regarde toujours du même côté ? Votre
+            ostéopathe à Paris a été formé pour vous aider.
           </p>
         </li>
       </ul>

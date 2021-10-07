@@ -3,7 +3,8 @@
     <div class="content">
       <h1 class="stagger1 slogan">
         Votre Ostéopathe<br />
-        à Paris 16ème
+        à Paris 16ème -<br />
+        Porte de Saint-Cloud
       </h1>
       <div class="meet stagger1">
         <span>👇</span>
@@ -242,7 +243,7 @@ $btnBeige: #f09d6d;
 
   .mosaique {
     transform: translate(0px, 0px);
-    width: 500px;
+    width: 100%;
     height: 100%;
   }
 }
@@ -281,7 +282,7 @@ $btnBeige: #f09d6d;
   }
 
   .mosaique {
-    width: 700px !important;
+    width: 100% !important;
     height: 100%;
   }
   .slogan {
@@ -336,9 +337,9 @@ $btnBeige: #f09d6d;
   }
 
   .mosaique {
-    width: 700px !important;
+    width: 100% !important;
     height: 75%;
-    transform: translate(-170px, 35px) !important;
+    transform: translate(-120px, 35px) !important;
   }
   .meet {
     margin: unset;
@@ -396,7 +397,7 @@ $btnBeige: #f09d6d;
     & .mosaique {
       width: 900px !important;
       height: 90%;
-      transform: translate(-225px, 25px) !important;
+      transform: translate(-160px, 25px) !important;
     }
 
     &-img {

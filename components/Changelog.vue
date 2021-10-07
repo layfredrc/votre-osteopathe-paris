@@ -173,7 +173,7 @@
           <div class="md:col-span-3 border-b pb-8 mb-12">
             <div class="prose md:prose-lg space-y-4">
               <img
-                data-src="../assets/pregnant.svg"
+                data-src="../assets/Wavy_Med-08_Single-05 [Converti].svg"
                 alt="Placeholder image"
                 class="rounded-lg mb-12 lazyload"
               />

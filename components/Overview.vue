@@ -26,6 +26,23 @@
               <strong class="font-bold text-green-500">
                 l’ostéopathie pour prendre soin de vous.
               </strong>
+              Le cabinet de votre ostéopathe à Paris vous accueille quelle que
+              soit votre situation.
+            </p>
+
+            <p>
+              L’ostéopathie est une thérapie manuelle reposant sur des
+              connaissances approfondies du corps humain et nécessitant un
+              toucher précis et exact. Son principe repose sur la compréhension
+              globale du fonctionnement de votre corps. L’attention ne se porte
+              pas seulement sur le symptôme mais sur la cause qui le provoque.
+            </p>
+
+            <p>
+              En bilan, l’ostéopathe va observer votre posture et effectuer un
+              bilan complet permettant de repérer d’éventuelles tensions, qui,
+              si elles ne sont pas traitées, pourraient vous occasionner des
+              douleurs par la suite.
             </p>
 
             <p>
@@ -49,7 +66,6 @@
               <strong class="font-bold text-green-500"
                 >douleurs mécaniques.</strong
               >
-              <br />
               La plupart de ces maux constituent le quotidien des ostéopathes.
             </p>
 
@@ -69,21 +85,16 @@
               Néansmoins, il est conseillé de réaliser une séance 2 à 3 fois par
               an minimum à titre préventif.
             </p>
-            <p>
-              En bilan, l’ostéopathe va observer votre posture et effectuer un
-              bilan complet permettant de repérer d’éventuelles tensions, qui,
-              si elles ne sont pas traitées, pourraient vous occasionner des
-              douleurs par la suite.
-            </p>
           </div>
           <!-- right col  -->
           <div class="flex-grow space-y-4 text-lg italic">
             <div class="p-10 rounded-lg bg-medium-green text-green-200">
-              Pourquoi consulter un ostéopathe?
-            </div>
-            <div class="p-10 rounded-lg bg-medium-green text-green-200">
               Pour qui les séances d'ostéopathie sont conseillées?
             </div>
+            <div class="p-10 rounded-lg bg-medium-green text-green-200">
+              Pourquoi consulter un ostéopathe?
+            </div>
+
             <div class="p-10 rounded-lg bg-medium-green text-green-200">
               Quels sont les bénéfices d'une séance d'ostéopathie?
             </div>

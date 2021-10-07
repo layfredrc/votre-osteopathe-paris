@@ -67,7 +67,7 @@
                 arrondissement de Paris.
               </h2>
               <p class="text-xs md:text-sm lg:text-sm xl:text-sm ">
-                Elle accueille types de patients du
+                Elle accueille tous types de patients du
                 <span class="font-bold"
                   >nourrisson, enfant, adulte, à la personne âgée, la femme
                   enceinte et le sportif.</span
