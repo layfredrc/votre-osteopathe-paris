@@ -223,6 +223,28 @@
         </div>
       </div>
     </a>
+
+    <div class="container mx-auto px-10 mt-8 tarifs">
+      <p class="lg:text-lg text-sm text-gray-100 text-center italic">
+        L'ostéopathie ne dépend pas de la sécurité sociale mais elle est prise
+        en charge par de très nombreuses mutuelles. A l'issue de chaque séance,
+        une facture vous sera remise et sera à remettre auprès de votre
+        complémentaire santé.
+        <br />
+        <br />
+        Liste des mutuelles remboursant l'ostéopathie :
+        <a href="https://www.osteopathe-syndicat.fr/osteopathie-remboursement"
+          >https://www.osteopathe-syndicat.fr/osteopathie-remboursement</a
+        >
+        <br />
+        <br />
+        Il est important d'apporter tous vos examens complémentaires
+        (radiographies, IRM, scanner, échographie...). Si la consultation
+        concerne un bébé ou un jeune enfant : Munissez-vous de son carnet de
+        santé. Pensez à prévoir sa tétine ou doudou et un biberon si vous ne
+        l'allaiter pas.
+      </p>
+    </div>
   </div>
 </template>
 <script>
