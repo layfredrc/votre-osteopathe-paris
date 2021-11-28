@@ -83,8 +83,8 @@
           </div>
           <p class="skill-title">Ostéopathie de la femme enceinte</p>
           <p class="skills-desc">
-            Votre ostéopathe peut agir positivement sur strong les souffrances
-            de la maman et du bébé en gestation. Douleurs lombaires , douleurs
+            Votre ostéopathe peut agir positivement sur les souffrances de la
+            maman et du bébé en gestation. Douleurs lombaires , douleurs
             pelviennes , pubalgies, sciatiques, maux de tête, changements
             comportementaux, problèmes de circulation sanguine, troubles
             digestifs, nausées, vomissements.
