@@ -121,7 +121,7 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Seniors <span class="font-normal">👫</span>
+            Seniors <span class="font-normal">👴</span>
           </h1>
           <div class="items-start">
             <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
@@ -166,13 +166,13 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Femme Enceinte<span class="font-normal">👫</span>
+            Femme Enceinte<span class="font-normal">🤰</span>
           </h1>
           <div class="items-start">
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
               Avant la grossesse:
             </h3>
-            <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Pour préparer votre corps à l’arrivée du fœtus, afin que votre
               organisme puisse s’adapter au mieux aux changements à venir. Si
               vous ressentez déjà des douleurs. Il est important de se faire
@@ -183,7 +183,7 @@
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
               Pendant la grossesse:
             </h3>
-            <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Pendant 9 neuf mois, l’ensemble de votre organisme ainsi que votre
               posture seront contraints à s’adapter au développement du fœtus.
               En effet, les femmes enceintes subissent d'importantes
@@ -198,7 +198,7 @@
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
               Préparation à l'accouchement :
             </h3>
-            <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Il est également très important de préparer votre bassin à
               l’accouchement, afin d’assurer une bonne mobilité de tous les
               tissus pour favoriser le passage de votre bébé.
@@ -211,18 +211,18 @@
               du sacrum ou du coccyx (coccygodynie), cruralgies, fausses
               sciatiques
             </li>
-            <li class="text-sm xl:text-lg lg:text-lg md:text-lg">
+            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
               Troubles digestifs : nausées, difficultés à la digestion,
               ballonnements, régurgitations, constipations, douleurs abdominales
             </li>
-            <li class="text-sm xl:text-lg lg:text-lg md:text-lg">
+            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
               Troubles circulatoires : jambes lourdes, hémorroïdes, maux de tête
             </li>
-            <li class="text-sm xl:text-lg lg:text-lg md:text-lg">
+            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
               Troubles gynécologiques : spasmes, contractions douloureuses,
               douleur lors des rapports sexuels
             </li>
-            <li class="text-sm xl:text-lg lg:text-lg md:text-lg">
+            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
               Autres troubles : problèmes respiratoires, stress, angoisse
             </li>
           </div>
@@ -232,7 +232,7 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Nourrissons <span class="font-normal">👫</span>
+            Nourrissons <span class="font-normal">👶</span>
           </h1>
           <div class="items-start">
             <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
@@ -293,7 +293,7 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Sportif <span class="font-normal">👫</span>
+            Sportif <span class="font-normal">🏋️</span>
           </h1>
           <div class="items-start">
             <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
@@ -343,7 +343,7 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Urgences <span class="font-normal">👫</span>
+            Urgences <span class="font-normal">🚨</span>
           </h1>
           <div class="items-start">
             <p class="my-4 text-xs lg:text-lg md:text-lg xl:text-lg ">
@@ -388,7 +388,7 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Exercices Physiques <span class="font-normal">👫</span>
+            Exercices Physiques <span class="font-normal">🏃</span>
           </h1>
           <div class="items-start px-8 mt-6">
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
@@ -423,54 +423,54 @@
           class="flex flex-col justify-between items-center py-4 text-left px-6 "
         >
           <h1 class="text-3xl font-bold">
-            Massage Drainant <span class="font-normal">👫</span>
+            Massage Drainant <span class="font-normal">💆</span>
           </h1>
           <div class="items-start mt-4 px-6">
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
+            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Corps Détoxifié
             </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Ce drainage permet de relancer le système lymphatique et le
               transport des déchets en dehors de l'organisme ce qui permettra de
               renforcer votre système immunitaire.
             </p>
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
+            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Silhouette Affinée
             </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Ce massage permet l'activation de la circulation sanguine et des
               fluides corporelles ce qui permet d'éliminer la rétention d'eau.
               Le corps est affiné et plus galbé. Les jambes sont moins lourdes.
             </p>
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
+            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Ventre Dégonflé
             </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Par la réduction de l'excès d'eau retenu dans les tissus, le
               ventre est visiblement dégonflé. Par l'action mécanique accéléré,
               le métabolisme est relancé !
             </p>
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
+            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Adieu la Cellulite
             </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               La pression mécanique ferme des mains de votre thérapeute
               permettra de casser la cellulite logée dont vous avez tant de mal
               à vous débarrasser.
             </p>
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
+            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Sensation de légèreté
             </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Corps seché, réduction de l'oedème, perte de plusieurs tours de
               taille... Dès la fin de la première séance, vous découvrirez la
               joie de flotter dans votre pantalon, la sensation d'une aisance et
               de légèreté additive !
             </p>
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
+            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Bien-être Absolu
             </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-lg xl:text-lg ">
+            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
               Au delà d'un simple aspect physique, le massage drainant
               lymphatique Renata França vous permet d'atteindre un équilibre
               intérieur par la stimulation de vos défense immunitaire, de votre
