@@ -163,37 +163,21 @@
         </div>
         <div
           v-if="name === 'Femme Enceinte'"
-          class="flex flex-col justify-between items-center py-4 text-left px-6 "
+          class="flex flex-col justify-between items-center py-4 text-left px-6  overflow-y-scroll"
         >
           <h1 class="text-3xl font-bold">
             Femme Enceinte<span class="font-normal">🤰</span>
           </h1>
           <div class="items-start">
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
-              Avant la grossesse:
-            </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
-              Pour préparer votre corps à l’arrivée du fœtus, afin que votre
-              organisme puisse s’adapter au mieux aux changements à venir. Si
-              vous ressentez déjà des douleurs. Il est important de se faire
-              traiter, afin d’éviter que ces douleurs n’augmentent pendant la
-              grossesse. Si vous éprouvez des difficultés à tomber enceinte
-              (infertilité fonctionnelle ou idiopathique).
-            </p>
-            <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
               Pendant la grossesse:
             </h3>
             <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
-              Pendant 9 neuf mois, l’ensemble de votre organisme ainsi que votre
-              posture seront contraints à s’adapter au développement du fœtus.
-              En effet, les femmes enceintes subissent d'importantes
-              modifications physiologiques et structurelles qui affectent leur
-              fonctionnement au quotidien. Mon travail est de vous accompagner
-              tout au long de ce moment tellement particulier, tant
-              émotionnellement que physiologiquement. Le traitement
-              ostéopathique soulage les douleurs chez la femmes enceinte en
-              éliminant les dysfonctions somatiques et en maintenant une bonne
-              mobilité des structures.
+              Mon travail est de vous accompagner tout au long de ce moment
+              tellement particulier, tant émotionnellement que
+              physiologiquement. Le traitement ostéopathique soulage les
+              douleurs chez la femmes enceinte en éliminant les dysfonctions
+              somatiques et en maintenant une bonne mobilité des structures.
             </p>
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
               Préparation à l'accouchement :
@@ -206,7 +190,7 @@
             <h3 class="text-sm xl:text-2xl lg:text-2xl md:text-2xl font-bold">
               Motifs de consultation :
             </h3>
-            <li class="text-sm xl:text-lg lg:text-lg md:text-lg mt-2">
+            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
               Troubles mécaniques : lombalgies, sciatalgies, douleurs au niveau
               du sacrum ou du coccyx (coccygodynie), cruralgies, fausses
               sciatiques
@@ -217,13 +201,6 @@
             </li>
             <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
               Troubles circulatoires : jambes lourdes, hémorroïdes, maux de tête
-            </li>
-            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
-              Troubles gynécologiques : spasmes, contractions douloureuses,
-              douleur lors des rapports sexuels
-            </li>
-            <li class="my-2 text-xs lg:text-lg md:text-base xl:text-lg">
-              Autres troubles : problèmes respiratoires, stress, angoisse
             </li>
           </div>
         </div>
@@ -425,7 +402,7 @@
           <h1 class="text-3xl font-bold">
             Massage Drainant <span class="font-normal">💆</span>
           </h1>
-          <div class="items-start mt-4 px-6">
+          <div class="items-start mt-4 ">
             <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
               Corps Détoxifié
             </h3>
@@ -442,40 +419,7 @@
               fluides corporelles ce qui permet d'éliminer la rétention d'eau.
               Le corps est affiné et plus galbé. Les jambes sont moins lourdes.
             </p>
-            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
-              Ventre Dégonflé
-            </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
-              Par la réduction de l'excès d'eau retenu dans les tissus, le
-              ventre est visiblement dégonflé. Par l'action mécanique accéléré,
-              le métabolisme est relancé !
-            </p>
-            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
-              Adieu la Cellulite
-            </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
-              La pression mécanique ferme des mains de votre thérapeute
-              permettra de casser la cellulite logée dont vous avez tant de mal
-              à vous débarrasser.
-            </p>
-            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
-              Sensation de légèreté
-            </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
-              Corps seché, réduction de l'oedème, perte de plusieurs tours de
-              taille... Dès la fin de la première séance, vous découvrirez la
-              joie de flotter dans votre pantalon, la sensation d'une aisance et
-              de légèreté additive !
-            </p>
-            <h3 class="text-sm xl:text-xl lg:text-xl md:text-xl font-bold">
-              Bien-être Absolu
-            </h3>
-            <p class="my-2 text-xs lg:text-lg md:text-base xl:text-lg ">
-              Au delà d'un simple aspect physique, le massage drainant
-              lymphatique Renata França vous permet d'atteindre un équilibre
-              intérieur par la stimulation de vos défense immunitaire, de votre
-              circulation sanguine et la régulation de votre système digestif.
-            </p>
+
             <div class="mx-auto">
               <a
                 href="../Drainage.pdf"
